@@ -1,7 +1,7 @@
-### Hello, My Name is Uwais, I’m a Mobile Enthusiast, love all about Mobile Phone in Any OS, and Mastered in Developing And Designing a Mobile App
+### Hello, My Name is Uwais
 
-<!--
-**uwais123/uwais123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**, I’m a Mobile Enthusiast, love all about Mobile Phone in Any OS, and Mastered in Developing And Designing a Mobile App
+** 
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: uwaisalqadri654321@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
