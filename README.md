@@ -15,3 +15,7 @@ I’m a Mobile Enthusiast, love all about Mobile Phone in Any OS, and Mastered i
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwais123&theme=radical&hide_langs_below=1&layout=compact&&title_color=32C326&icon_color=8E8F8E&text_color=00000&bg_color=fffff" width="40%">
 </p>
+
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" alt="uwes" width="200" height="200"/>
+ 
+  <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" alt="uwes" width="200" height="200"/>
