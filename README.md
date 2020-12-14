@@ -10,6 +10,8 @@ I’m a Mobile Enthusiast, love all about Mobile Phone in Any OS, and Mastered i
 
 <p align="center">
   <img src="https://media.giphy.com/media/DgdKNRb3vD82dGjPOL/giphy.gif" alt="uwes" width="200" height="200"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uwais123&&show_icons=true&title_color=32C326&icon_color=8E8F8E&text_color=fffff&bg_color=00000">
+  
+ <img src="https://github-readme-stats.vercel.app/api?username=uwais123&&show_icons=true&title_color=4ecdc4&icon_color=247ba0&text_color=1a535c&bg_color=ffffff" width="100%">
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwais123&theme=radical&hide_langs_below=1&layout=compact&&title_color=32C326&icon_color=8E8F8E&text_color=00000&bg_color=fffff">
 </p>
