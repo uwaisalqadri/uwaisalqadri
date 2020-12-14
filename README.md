@@ -18,7 +18,7 @@ I’m a Mobile Enthusiast, love all about Mobile Phone in Any OS, and Mastered i
 </p>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" alt="uwes" width="200" height="200"/>
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" alt="uwes" width="200" height="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" alt="uwes" width="200" height="200"/>
+<img src="https://assets.stickpng.com/images/58482ce4cef1014c0b5e4a4c.png" alt="uwes" width="200" height="200"/>
 </p>
 
