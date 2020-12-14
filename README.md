@@ -2,8 +2,8 @@
 
 I’m a Mobile Enthusiast, love all about Mobile Phone in Any OS, and Mastered in Developing And Designing a Mobile App
 
-- 🖥 I’m currently working on <b>INDI Technology</b>
-- 📱 I’m currently learning iOS Development
+- 🖥 Android Developer Intern at <b>INDI Technology</b>
+- 📱 Waiting for Jetpack Compose
 - 👯 I’m looking to collaborate on Android/iOS Project
 - 💬 Ask me all about Kotlin and Swift
 - 📫 How to reach me: uwaisalqadri654321@gmail.com
