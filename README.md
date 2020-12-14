@@ -18,7 +18,7 @@ I’m a Mobile Enthusiast, love all about Mobile Phone in Any OS, and Mastered i
 </p>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" alt="uwes" width="200" height="200"/>
-<img src="https://www.logolynx.com/images/logolynx/61/613bae3100d3a39b1cdb21c08694cefc.png" alt="uwes" width="200" height="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" alt="uwes" width="50" height="50"/>
+<img src="https://www.logolynx.com/images/logolynx/61/613bae3100d3a39b1cdb21c08694cefc.png" alt="uwes" width="50" height="50"/>
 </p>
 
