@@ -1,11 +1,11 @@
 ### Hello, My Name is Uwais
 
-I’m a Mobile Enthusiast, love all about Mobile Phone in Any OS, and Mastered in Developing And Designing a Mobile App
+Ordinary Mobile Enthusiast, love all about Mobile Phone in Any OS, and Mastered in Developing And Designing a Mobile App
 
 - 🖥 Android Developer Intern at <b>INDI Technology</b>
-- 📱 Waiting for Jetpack Compose
+- 📱 1,5 years in Kotlin, Several Month in Swift
 - 👯 I’m looking to collaborate on Android/iOS Project
-- 💬 Ask me all about Kotlin and Swift
+- 💬 Interest only for Kotlin and Swift
 - 📫 How to reach me: uwaisalqadri654321@gmail.com
 
 <p align="center">
