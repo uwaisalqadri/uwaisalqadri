@@ -1,6 +1,6 @@
 ### Hello, My Name is Uwais
 
-Ordinary Mobile Enthusiast, love all about Mobile Phone in Any OS, and Mastered in Developing And Designing a Mobile App
+I’m a Mobile Developer, love all about Mobile Phone in both iOS / Android and Mastered in Developing And Designing a Mobile App
 
 - 🖥 Android Developer Intern at <b>INDI Technology</b>
 - 📱 1,5 years in Kotlin, Several Month in Swift
