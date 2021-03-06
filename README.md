@@ -1,7 +1,7 @@
 ### Currently learning about Compose and AutoLayout
 
 - 🖥 Android Developer Intern at <b>INDI Technology</b>
-- 📱 1,5 years in Kotlin, Several Month in Swift
+- 📱 Native Mobile App adalah jalan ninjaku
 - 👨🏻‍💻 Concise Code Lover
 - 📫 How to reach me: uwaisalqadri654321@gmail.com
 
