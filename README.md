@@ -2,8 +2,7 @@
 
 - 🖥 Android Developer Intern at <b>INDI Technology</b>
 - 📱 1,5 years in Kotlin, Several Month in Swift
-- 👯 I’m looking to collaborate on Android/iOS Project
-- 💬 Wrote code since 15 y.o
+- 👨🏻‍💻 Concise Code Lover
 - 📫 How to reach me: uwaisalqadri654321@gmail.com
 
 
