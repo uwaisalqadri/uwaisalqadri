@@ -1,6 +1,6 @@
 ### Currently learning about Compose and AutoLayout
 
-- 🖥 Android Developer Intern at <b>INDI Technology</b>
+- 🖥 Android & iOS Developer
 - 📱 Native Mobile App adalah jalan ninjaku
 - 👨🏻‍💻 Concise Code Lover
 - 📫 How to reach me: uwaisalqadri654321@gmail.com
