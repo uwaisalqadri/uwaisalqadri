@@ -1,4 +1,4 @@
-### Currently learning about Compose and AutoLayout
+### Practice make perfect
 
 - 🖥 Android & iOS Developer
 - 📱 Native Mobile App adalah jalan ninjaku
