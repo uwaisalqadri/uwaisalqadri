@@ -1,7 +1,7 @@
 ### Practice make perfect
 
 - 🖥 Android & iOS Developer
-- 📱 Native Mobile App adalah jalan ninjaku
+- 📱 Native Mobile App
 - 👨🏻‍💻 Concise Code Lover
 - 📫 How to reach me: uwaisalqadri654321@gmail.com
 
