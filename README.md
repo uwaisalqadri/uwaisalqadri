@@ -3,7 +3,7 @@
 - 🖥 Android & iOS Developer
 - 📱 Modern syntax
 - 👨🏻‍💻 Concise Code Lover
-- 📫 How to reach me: uwaisalqadri654321@gmail.com || ig: __@uwais.__alqadri
+- 📫 How to reach me: uwaisalqadri654321@gmail.com || ig: @uwais.__alqadri
 
 
 
