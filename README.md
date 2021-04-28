@@ -1,9 +1,9 @@
 ### Practice make perfect
 
 - 🖥 Android & iOS Developer
-- 📱 Native Mobile App
+- 📱 Modern syntax
 - 👨🏻‍💻 Concise Code Lover
-- 📫 How to reach me: uwaisalqadri654321@gmail.com
+- 📫 How to reach me: uwaisalqadri654321@gmail.com || ig: __@uwais.__alqadri
 
 
 
