@@ -14,8 +14,5 @@
   [![Repos Badge](https://badges.pufler.dev/repos/uwais123)](https://badges.pufler.dev)
   [![Commits Badge](https://badges.pufler.dev/commits/weekly/uwais123)](https://badges.pufler.dev)
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwais123&theme=radical&hide_langs_below=1&layout=compact&&title_color=32C326&icon_color=8E8F8E&text_color=00000&bg_color=fffff" width="60%">
- 
- 
-</p>
+
 
