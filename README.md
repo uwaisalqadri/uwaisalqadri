@@ -1,8 +1,9 @@
-### Practice make perfect
+# Mobile Software Engineer
 
-- 🖥 Android & iOS Developer
-- 📱 Modern syntax
+- 🖥 Still trying to be a good engineer
+- 👏 not familiar with semicolons
 - 👨🏻‍💻 Concise Code Lover
+- 📖 I do code almost everyday, but let's have a talk about history if want to
 - 📫 How to reach me: uwaisalqadri654321@gmail.com || ig: @uwais.__alqadri
 
 
