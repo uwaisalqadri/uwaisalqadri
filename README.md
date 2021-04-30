@@ -8,11 +8,12 @@
 
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=uwais123&&show_icons=true&title_color=4ecdc4&icon_color=247ba0&text_color=1a535c&bg_color=ffffff" width="70%">
+[![Years Badge](https://badges.pufler.dev/years/uwais123)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/uwais123)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/weekly/uwais123)](https://badges.pufler.dev)
+ <img src="https://github-readme-stats.vercel.app/api?username=uwais123&&show_icons=true&title_color=4ecdc4&icon_color=247ba0&text_color=1a535c&bg_color=ffffff" width="100%">
   
-  [![Years Badge](https://badges.pufler.dev/years/uwais123)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/uwais123)](https://badges.pufler.dev)
-  [![Commits Badge](https://badges.pufler.dev/commits/weekly/uwais123)](https://badges.pufler.dev)
+  
   
 
 
