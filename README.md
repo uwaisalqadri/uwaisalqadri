@@ -1,6 +1,6 @@
 # Mobile Software Engineer
 
-- 🖥 Still trying to be a good engineer
+- 🖥 Still learning to be a good engineer
 - 👏 not familiar with semicolons
 - 👨🏻‍💻 Concise Code Lover
 - 📖 Junior Engineer, I do code almost everyday, still have a lot to learn
