@@ -4,7 +4,7 @@
 - 👏 not familiar with semicolons
 - 👨🏻‍💻 Concise Code Lover
 - 📖 Junior Engineer, I do code almost everyday, still have a lot to learn
-- 📫 How to reach me: uwaisalqadri654321@gmail.com || ig: @uwais.__alqadri
+- 📫 How to reach me: uwaisalqadri654321@gmail.com || instagram: @uwais.__alqadri
 
 
 
