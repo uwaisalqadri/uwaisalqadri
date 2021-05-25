@@ -3,7 +3,7 @@
 - 🖥 Still learning to be a good engineer
 - 👏 not familiar with semicolons
 - 👨🏻‍💻 Concise Code Lover
-- 📖 Junior Engineer, I do code almost everyday, still have a lot to learn
+- 📖 17 y.o junior engineer, I do code almost everyday, still have a lot thing to learn
 - 📫 How to reach me: uwaisalqadri654321@gmail.com || instagram: @uwais.__alqadri
 
 
