@@ -1,6 +1,6 @@
 # Mobile Software Engineer
 
-- 🖥 Still learning to be a good engineer
+- 🖥 Still growing to be a good engineer
 - 👏 not familiar with semicolons
 - 👨🏻‍💻 Concise Code Lover
 - 📖 17 y.o junior engineer, I do code almost everyday, still have a lot things to learn
