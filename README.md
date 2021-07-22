@@ -1,4 +1,5 @@
 # Mobile Software Engineer
+write mobile app - use mobile app - switch os - repeat.
 ![counter](https://eny7vktbzyul0ob.m.pipedream.net)
 
 - 🖥 Still growing to be a good engineer
