@@ -1,4 +1,4 @@
-# https://github.com/uwais123
+# github.com/uwais123
 write mobile app - use mobile app - switch os - repeat.
 
 ![counter](https://eny7vktbzyul0ob.m.pipedream.net)
