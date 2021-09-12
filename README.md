@@ -3,11 +3,13 @@ write mobile app - use mobile app - switch os - repeat.
 
 ![counter](https://eny7vktbzyul0ob.m.pipedream.net)
 
-- 🖥 Still growing to be a good engineer
+- 🖥 still growing to be a professional software engineer
 - 👏 not familiar with semicolons
-- 👨🏻‍💻 Concise Code Lover
+- 👨🏻‍💻 concise Code Lover
 - 📖 17 y.o junior engineer, I do code almost everyday, still have a lot things to learn
-- 📫 How to reach me: uwaisalqadri654321@gmail.com || instagram: @uwais.__alqadri
+- 📫 get in touch 
+     email: uwaisalqadri654321@gmail.com 
+     linkedIn: https://www.linkedin.com/in/uwais-alqadri-7a5398180/
 
 
 
