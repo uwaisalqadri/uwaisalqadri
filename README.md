@@ -8,8 +8,8 @@ write mobile app - use mobile app - switch os - repeat.
 - 👨🏻‍💻 concise Code Lover
 - 📖 17 y.o junior engineer, I do code almost everyday, still have a lot things to learn
 - 📫 get in touch 
-- - email: uwaisalqadri654321@gmail.com 
-- - linkedIn: https://www.linkedin.com/in/uwais-alqadri-7a5398180/
+  - email: uwaisalqadri654321@gmail.com 
+  - linkedIn: https://www.linkedin.com/in/uwais-alqadri-7a5398180/
 
 
 
