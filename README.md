@@ -1,5 +1,5 @@
 # github.com/uwaisalqadri
-write mobile app - use mobile app - switch os - repeat.
+swift + kotlin supremacy
 
 ![counter](https://eny7vktbzyul0ob.m.pipedream.net)
 
