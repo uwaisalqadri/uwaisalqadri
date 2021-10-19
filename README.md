@@ -4,11 +4,10 @@ swift + kotlin supremacy
 ![counter](https://eny7vktbzyul0ob.m.pipedream.net)
 
 - 🖥 still growing to be a professional software engineer
-- 👏 not familiar with semicolons
-- 👨🏻‍💻 concise Code Lover
+- 👨🏻‍💻 i'll write only one line as possible 
 - 📖 17 y.o junior engineer, I do code almost everyday, still have a lot things to learn
 - 📫 get in touch 
-  - email: uwaisalqadri654321@gmail.com 
+  - email: uwaisalqadri@icloud.com 
   - linkedIn: https://www.linkedin.com/in/uwais-alqadri-7a5398180/
   - twitter (daily engineering update): https://twitter.com/uwais_al_qadri
 
