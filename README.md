@@ -3,8 +3,9 @@ swift + kotlin supremacy
 
 ![counter](https://eny7vktbzyul0ob.m.pipedream.net)
 
-- 🖥 still growing to be a professional software engineer
-- 👨🏻‍💻 i'll write only one line as possible 
+- 🚀 still growing to be a principal software engineer
+- 🖥 deep love with mobile software engineering
+- 👨🏻‍💻 i'll try to write only one line as possible 
 - 📖 17 y.o junior engineer, I do code almost everyday, still have a lot things to learn
 - 📫 get in touch 
   - email: uwaisalqadri@icloud.com 
