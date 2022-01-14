@@ -5,12 +5,12 @@ swift + kotlin supremacy
 
 - 🚀 still growing to be a principal software engineer
 - 🖥 my deepest love for mobile engineering
-- 👨🏻‍💻 i'll try to write only one line as possible 
+- 👨🏻‍💻 300 line of code in single class is too much 
 - 📖 17 y.o junior engineer, I do code almost everyday, still have a lot things to learn
 - 📫 get in touch 
-  - email: uwaisalqadri@icloud.com 
-  - linkedIn: https://www.linkedin.com/in/uwais-alqadri-7a5398180/
-  - twitter (daily engineering update): https://twitter.com/uwais_al_qadri
+  - **email: uwaisalqadri@icloud.com**
+  - **linkedIn:** [**`linkedIn.com/uwais-alqadri`**](https://www.linkedin.com/in/uwais-alqadri-7a5398180/)
+  - **twitter (daily engineering update):** [**`twitter.com/uwais_al_qadri`**](https://twitter.com/uwais_al_qadri) 
 
 
 
