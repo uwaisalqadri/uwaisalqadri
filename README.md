@@ -13,8 +13,8 @@ swift + kotlin supremacy
 
 
 
-
- <img src="https://github-readme-stats.vercel.app/api?username=uwaisalqadri&&show_icons=true&title_color=4ecdc4&icon_color=247ba0&text_color=1a535c&bg_color=ffffff" width="100%">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwaisalqadri&hide=javascript,html,php,css,scss,roff)](https://github.com/uwaisalqadri/github-readme-stats)
+[![Uwais's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwaisalqadri)](https://github.com/uwaisalqadri/github-readme-stats)
  
  [![Years Badge](https://badges.pufler.dev/years/uwaisalqadri)](https://badges.pufler.dev)
  [![Repos Badge](https://badges.pufler.dev/repos/uwaisalqadri)](https://badges.pufler.dev)
