@@ -5,7 +5,7 @@ swift + kotlin supremacy
 
 - 🚀 still growing to be a principal software engineer
 - 🖥 my deepest love for mobile engineering
-- 📖 17 y.o junior engineer, I do code almost everyday, still have a lot things to learn
+- 📖 under twenty junior engineer, I do code almost everyday, still have a lot things to learn
 - 📫 get in touch 
   - **email: uwaisalqadri@icloud.com**
   - **linkedIn:** [**`linkedIn.com/uwais-alqadri`**](https://www.linkedin.com/in/uwais-alqadri-7a5398180/)
