@@ -5,6 +5,8 @@ import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.options.required
 import com.github.ajalt.clikt.parameters.types.file
 import io.ktor.client.*
+import io.ktor.client.engine.*
+import io.ktor.client.engine.okhttp.*
 import io.ktor.client.plugins.*
 import io.ktor.client.plugins.contentnegotiation.*
 import io.ktor.client.plugins.logging.*
@@ -88,7 +90,7 @@ fun createJson() = Json {
     useAlternativeNames = false
 }
 
-fun createHttpClient(json: Json) = HttpClient {
+fun createHttpClient(json: Json) = HttpClient(OkHttp) {
     install(ContentNegotiation) {
         json(json = json)
     }
