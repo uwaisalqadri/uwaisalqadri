@@ -35,7 +35,6 @@ data class GithubActivityEvent(
     @SerialName("created_at")
     val createdAt: String,
     @SerialName("payload")
-    @Serializable(with = EventPayloadSerializer::class)
     val payload: GitHubActivityEventPayload,
     @SerialName("public")
     val public: Boolean,
@@ -43,7 +42,7 @@ data class GithubActivityEvent(
     val repo: Repo?
 )
 
-@Serializable
+@Serializable(with = EventPayloadSerializer::class)
 sealed class GitHubActivityEventPayload
 
 @Serializable
@@ -124,17 +123,10 @@ data class Repo(
 object EventPayloadSerializer : JsonContentPolymorphicSerializer<GitHubActivityEventPayload>(GitHubActivityEventPayload::class) {
     override fun selectDeserializer(element: JsonElement) = when {
         "IssuesEvent" in element.jsonObject -> IssuesEventPayload.serializer()
-        "IssueCommentEvent" in element.jsonObject -> IssueCommentEventPayload.serializer()
-        "PullRequestEvent" in element.jsonObject -> PullRequestPayload.serializer()
-        "CreateEvent" in element.jsonObject -> CreateEvent.serializer()
-        "DeleteEvent" in element.jsonObject -> DeleteEvent.serializer()
+        "comment" in element.jsonObject -> IssueCommentEventPayload.serializer()
+        "pull_request" in element.jsonObject -> PullRequestPayload.serializer()
+        "ref_type" in element.jsonObject -> CreateEvent.serializer()
+        "ref_type" in element.jsonObject -> DeleteEvent.serializer()
         else -> UnknownPayload.serializer()
     }
-}
-
-@Serializer(forClass = Instant::class)
-object InstantSerializer : KSerializer<Instant> {
-    override val descriptor: SerialDescriptor = PrimitiveSerialDescriptor("Instant", PrimitiveKind.LONG)
-    override fun serialize(encoder: Encoder, value: Instant) = encoder.encodeLong(value.toEpochMilli())
-    override fun deserialize(decoder: Decoder) = Instant.ofEpochMilli(decoder.decodeLong())
 }

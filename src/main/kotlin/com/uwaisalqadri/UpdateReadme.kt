@@ -46,7 +46,7 @@ private fun fetchGithubActivity(
     return activity
         .filter { it.public }
         .mapNotNull { event ->
-            when (val payload = event.payload) {
+           when (val payload = event.payload) {
                 UnknownPayload, null -> return@mapNotNull null
                 is IssuesEventPayload -> {
                     ActivityItem(
@@ -100,28 +100,6 @@ fun createHttpClient(json: Json) = HttpClient(OkHttp) {
         this.connectTimeoutMillis = 60000
         this.socketTimeoutMillis = 60000
     }
-
-//    HttpResponseValidator {
-//        handleResponseExceptionWithRequest { exception, _ ->
-//            when (exception) {
-//                is ServerResponseException -> {
-//                    val serverResponseResponse = exception.response
-//                    val serverResponseExceptionText = serverResponseResponse.bodyAsText()
-//                    val apiException = json.decodeFromString(ApiException.serializer(), serverResponseExceptionText)
-//                    throw apiException
-//                }
-//                is ClientRequestException -> {
-//                    val exceptionResponse = exception.response
-//                    val exceptionResponseText = exceptionResponse.bodyAsText()
-//                    val apiException = json.decodeFromString(ApiException.serializer(), exceptionResponseText)
-//                    throw apiException
-//                }
-//                else -> {
-//                    return@handleResponseExceptionWithRequest
-//                }
-//            }
-//        }
-//    }
 
     install(Logging) {
         logger = Logger.DEFAULT
