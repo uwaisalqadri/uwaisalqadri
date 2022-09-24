@@ -8,7 +8,7 @@ fun createReadMe(
 
 ## GitHub Activity
 
-${githubActivity.joinToString("\n") { it.toString() }}
+${githubActivity.joinToString("\n\n") { it.toString() }}
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
