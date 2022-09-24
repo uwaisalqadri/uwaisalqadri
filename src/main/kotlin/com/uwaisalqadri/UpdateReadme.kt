@@ -113,9 +113,5 @@ data class ActivityItem(
 )
 
 fun main(argv: Array<String>) {
-    val json = createJson()
-    val client = createHttpClient(json)
-    val activity = fetchGithubActivity(client)
-    print(activity)
-//    UpdateReadmeCommand().main(argv)
+    UpdateReadmeCommand().main(argv)
 }
