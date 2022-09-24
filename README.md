@@ -1,13 +1,11 @@
-    
-<table><tr><td valign="top" width="60%">
+        
+    <table><tr><td valign="top" width="100%">    
+            
+    ## GitHub Activity
 
-## GitHub Activity
-<!-- githubActivity starts -->
-    ActivityItem(text=created branch `master` on [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri), timestamp=2022-09-24T05:27:24Z)
+    **2022-09-24T05:27:24Z** - created branch `master` on [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri)
 
-ActivityItem(text=created branch `master` on [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri), timestamp=2022-09-24T05:24:52Z)
-<!-- githubActivity ends -->
-
-</td></tr></table>
-
-<sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
+**2022-09-24T05:24:52Z** - created branch `master` on [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri)
+                
+    <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
+        
