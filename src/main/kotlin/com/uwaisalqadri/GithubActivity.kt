@@ -33,8 +33,7 @@ data class GithubActivityEvent(
     @SerialName("id")
     val id: String,
     @SerialName("created_at")
-    @Serializable(with = InstantSerializer::class)
-    val createdAt: Instant,
+    val createdAt: String,
     @SerialName("payload")
     @Serializable(with = EventPayloadSerializer::class)
     val payload: GitHubActivityEventPayload,
