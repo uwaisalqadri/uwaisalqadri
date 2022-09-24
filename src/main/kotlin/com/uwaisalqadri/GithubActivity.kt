@@ -32,7 +32,7 @@ class GithubApi(private val httpClient: HttpClient) {
 data class GithubActivityEvent(
     @SerialName("id")
     val id: String,
-    @SerialName("createdAt")
+    @SerialName("created_at")
     @Serializable(with = InstantSerializer::class)
     val createdAt: Instant,
     @SerialName("payload")
