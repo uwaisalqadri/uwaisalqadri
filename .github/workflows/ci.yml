@@ -23,7 +23,7 @@ jobs:
           ${{ runner.os }}-gradle-
     - name: Update README
       run: |-
-        ./gradlew run --args="-o README.md"
+        chmod +x ./gradlew run --args="-o README.md"
         cat README.md
     - name: (Fail-only) Upload the build report
       if: failure()
