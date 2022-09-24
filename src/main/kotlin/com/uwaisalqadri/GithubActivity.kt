@@ -1,3 +1,5 @@
+@file:OptIn(ExperimentalSerializationApi::class)
+
 package com.uwaisalqadri
 
 import io.ktor.client.*
@@ -12,8 +14,13 @@ import kotlinx.serialization.encoding.Encoder
 import java.time.Instant
 
 class GithubApi(private val httpClient: HttpClient) {
+
+    companion object {
+        const val BASE_URL = "https://api.github.com"
+    }
+
     suspend fun getUserActivity(login: String): List<GithubActivityEvent> {
-        return httpClient.get("/users/$login/events").body()
+        return httpClient.get("$BASE_URL/users/$login/events").body()
     }
 }
 
