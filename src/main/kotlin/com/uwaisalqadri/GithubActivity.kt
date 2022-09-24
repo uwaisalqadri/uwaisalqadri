@@ -40,6 +40,7 @@ data class GithubActivityEvent(
     val repo: Repo?
 )
 
+@Serializable
 sealed class GitHubActivityEventPayload {
     object UnknownPayload : GitHubActivityEventPayload()
 
