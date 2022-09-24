@@ -11,6 +11,10 @@ import kotlinx.serialization.descriptors.PrimitiveSerialDescriptor
 import kotlinx.serialization.descriptors.SerialDescriptor
 import kotlinx.serialization.encoding.Decoder
 import kotlinx.serialization.encoding.Encoder
+import kotlinx.serialization.json.JsonContentPolymorphicSerializer
+import kotlinx.serialization.json.JsonElement
+import kotlinx.serialization.json.jsonObject
+import kotlinx.serialization.json.jsonPrimitive
 import java.time.Instant
 
 class GithubApi(private val httpClient: HttpClient) {
@@ -32,7 +36,7 @@ data class GithubActivityEvent(
     @Serializable(with = InstantSerializer::class)
     val createdAt: Instant,
     @SerialName("payload")
-    @Contextual
+    @Serializable(with = EventPayloadSerializer::class)
     val payload: GitHubActivityEventPayload,
     @SerialName("public")
     val public: Boolean,
@@ -41,44 +45,45 @@ data class GithubActivityEvent(
 )
 
 @Serializable
-sealed class GitHubActivityEventPayload {
-    object UnknownPayload : GitHubActivityEventPayload()
+sealed class GitHubActivityEventPayload
 
-    @Serializable
-    data class IssuesEventPayload(
-        val action: String,
-        val issue: Issue
-    ): GitHubActivityEventPayload()
+@Serializable
+object UnknownPayload : GitHubActivityEventPayload()
 
-    @Serializable
-    data class IssueCommentEventPayload(
-        val action: String,
-        val comment: Comment,
-        val issue: Issue
-    ): GitHubActivityEventPayload()
+@Serializable
+data class IssuesEventPayload(
+    val action: String,
+    val issue: Issue
+): GitHubActivityEventPayload()
 
-    @Serializable
-    data class PullRequestPayload(
-        val action: String,
-        val number: Int,
-        @SerialName("pull_request")
-        val pullRequest: PullRequest
-    ): GitHubActivityEventPayload()
+@Serializable
+data class IssueCommentEventPayload(
+    val action: String,
+    val comment: Comment,
+    val issue: Issue
+): GitHubActivityEventPayload()
 
-    @Serializable
-    data class CreateEvent(
-        val ref: String?,
-        @SerialName("ref_type")
-        val refType: String
-    ): GitHubActivityEventPayload()
+@Serializable
+data class PullRequestPayload(
+    val action: String,
+    val number: Int,
+    @SerialName("pull_request")
+    val pullRequest: PullRequest
+): GitHubActivityEventPayload()
 
-    @Serializable
-    data class DeleteEvent(
-        val ref: String?,
-        @SerialName("ref_type")
-        val refType: String
-    ): GitHubActivityEventPayload()
-}
+@Serializable
+data class CreateEvent(
+    val ref: String?,
+    @SerialName("ref_type")
+    val refType: String
+): GitHubActivityEventPayload()
+
+@Serializable
+data class DeleteEvent(
+    val ref: String?,
+    @SerialName("ref_type")
+    val refType: String
+): GitHubActivityEventPayload()
 
 @Serializable
 data class Issue(
@@ -115,6 +120,17 @@ data class Repo(
             .replaceFirst("repos/", "")
     }
     fun markdownUrl(): String = "[$name](${adjustedUrl()})"
+}
+
+object EventPayloadSerializer : JsonContentPolymorphicSerializer<GitHubActivityEventPayload>(GitHubActivityEventPayload::class) {
+    override fun selectDeserializer(element: JsonElement) = when {
+        "IssuesEvent" in element.jsonObject -> IssuesEventPayload.serializer()
+        "IssueCommentEvent" in element.jsonObject -> IssueCommentEventPayload.serializer()
+        "PullRequestEvent" in element.jsonObject -> PullRequestPayload.serializer()
+        "CreateEvent" in element.jsonObject -> CreateEvent.serializer()
+        "DeleteEvent" in element.jsonObject -> DeleteEvent.serializer()
+        else -> UnknownPayload.serializer()
+    }
 }
 
 @Serializer(forClass = Instant::class)
