@@ -110,7 +110,12 @@ fun createHttpClient(json: Json) = HttpClient(OkHttp) {
 data class ActivityItem(
     val text: String,
     val timestamp: String
-)
+) {
+    override fun toString(): String {
+        val timestamp = Instant.parse(timestamp)
+        return "**${timestamp.atZone(ZoneId.of("America/New_York")).toLocalDate()}** — $text"
+    }
+}
 
 fun main(argv: Array<String>) {
     UpdateReadmeCommand().main(argv)
