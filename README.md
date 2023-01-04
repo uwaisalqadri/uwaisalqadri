@@ -2,7 +2,7 @@
 
 ## GitHub Activity
 
-**2022-12-22** — created branch `refactor/kmm-beta` on [uwaisalqadri/MangaKu](https://github.com/uwaisalqadri/MangaKu)
+**2023-01-04** — created branch `main` on [uwaisalqadri/essential-feed-case-study](https://github.com/uwaisalqadri/essential-feed-case-study)
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
