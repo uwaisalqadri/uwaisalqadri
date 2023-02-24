@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2023-02-23** — created branch `feat/finishing-app` on [ayeshaazeema/Paw_Application](https://github.com/ayeshaazeema/Paw_Application)
+
 **2023-02-22** — created branch `fix/room-db` on [keishaputri-k/DakomApp](https://github.com/keishaputri-k/DakomApp)
 
 **2023-02-12** — created branch `feat/ui-implementation` on [ayeshaazeema/Paw_Application](https://github.com/ayeshaazeema/Paw_Application)
