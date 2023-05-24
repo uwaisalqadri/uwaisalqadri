@@ -9,8 +9,6 @@
 **2023-02-25** — opened PR [#1](https://github.com/ayeshaazeema/Paw_Application/pull/1) to [ayeshaazeema/Paw_Application](https://github.com/ayeshaazeema/Paw_Application): "Feat/finishing app"
 
 **2023-02-23** — created branch `feat/finishing-app` on [ayeshaazeema/Paw_Application](https://github.com/ayeshaazeema/Paw_Application)
-
-**2023-02-22** — created branch `fix/room-db` on [keishaputri-k/DakomApp](https://github.com/keishaputri-k/DakomApp)
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
