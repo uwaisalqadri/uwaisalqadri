@@ -2,25 +2,9 @@
 
 ## GitHub Activity
 
-**2023-06-27** — commented on [#227](https://github.com/teodorpatras/EasyTipView/issues/227#issuecomment-1608771086) in [teodorpatras/EasyTipView](https://github.com/teodorpatras/EasyTipView)
+**2023-12-24** — created branch `main` on [uwaisalqadri/DeviceAssessment](https://github.com/uwaisalqadri/DeviceAssessment)
 
-**2023-06-03** — created branch `feat/unit-test` on [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF)
-
-**2023-06-03** — created branch `unit-test` on [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF)
-
-**2023-06-03** — created branch `final-capstone` on [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF)
-
-**2023-06-03** — created branch `dev/dicoding-fundamental` on [uwaisalqadri/ImaginaryImages](https://github.com/uwaisalqadri/ImaginaryImages)
-
-**2023-06-03** — created branch `dev/dicoding-expert` on [uwaisalqadri/ImaginaryImages](https://github.com/uwaisalqadri/ImaginaryImages)
-
-**2023-06-03** — created branch `dev/dicoding-beginner` on [uwaisalqadri/ImaginaryImages](https://github.com/uwaisalqadri/ImaginaryImages)
-
-**2023-06-03** — created branch `main` on [uwaisalqadri/ImaginaryImages](https://github.com/uwaisalqadri/ImaginaryImages)
-
-**2023-06-03** — created repository on [uwaisalqadri/ImaginaryImages](https://github.com/uwaisalqadri/ImaginaryImages)
-
-**2023-05-27** — created branch `main` on [uwaisalqadri/SwiftUIViewUIKitNavigation](https://github.com/uwaisalqadri/SwiftUIViewUIKitNavigation)
+**2023-12-24** — created repository on [uwaisalqadri/DeviceAssessment](https://github.com/uwaisalqadri/DeviceAssessment)
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
