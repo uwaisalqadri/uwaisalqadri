@@ -46,7 +46,7 @@ private fun fetchGithubActivity(
     return activity
         .filter { it.public }
         .mapNotNull { event ->
-           when (val payload = event.payload) {
+            when (val payload = event.payload) {
                 UnknownPayload, null -> return@mapNotNull null
                 is IssuesEventPayload -> {
                     ActivityItem(
@@ -54,29 +54,55 @@ private fun fetchGithubActivity(
                         event.createdAt
                     )
                 }
+
                 is IssueCommentEventPayload -> {
                     ActivityItem(
                         "commented on [#${payload.issue.number}](${payload.comment.htmlUrl}) in ${event.repo?.markdownUrl()}",
                         event.createdAt
                     )
                 }
+
                 is PullRequestPayload -> {
-                    val action = if (payload.pullRequest.merged == true) "merged" else payload.action
+                    val action =
+                        if (payload.pullRequest.merged == true) "merged" else payload.action
                     ActivityItem(
-                        "$action PR [#${payload.number}](${payload.pullRequest.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
-                        event.createdAt
+                        text = "$action PR [#${payload.number}](${payload.pullRequest.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
+                        timestamp = event.createdAt
                     )
                 }
+
                 is CreateEvent -> {
                     ActivityItem(
-                        "created ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
-                        event.createdAt
+                        text = "created ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
+                        timestamp = event.createdAt
                     )
                 }
+
                 is DeleteEvent -> {
                     ActivityItem(
-                        "deleted ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
-                        event.createdAt
+                        text = "deleted ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
+                        timestamp = event.createdAt
+                    )
+                }
+
+                is ForkEventPayload -> {
+                    ActivityItem(
+                        text = "forked repository [#${payload.name}](${event.repo?.markdownUrl()}) to ${payload.htmlUrl}",
+                        timestamp = event.createdAt
+                    )
+                }
+
+                is PushEventPayload -> {
+                    ActivityItem(
+                        text = "pushed #${payload.commits.first().sha.take(7)} to ${event.repo?.markdownUrl()}: \"${payload.commits.first().message}\"",
+                        timestamp = event.createdAt
+                    )
+                }
+
+                is WatchEventPayload -> {
+                    ActivityItem(
+                        text = "watched repository ${event.repo?.markdownUrl()}",
+                        timestamp = event.createdAt
                     )
                 }
             }
