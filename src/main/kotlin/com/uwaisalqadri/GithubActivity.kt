@@ -260,7 +260,13 @@ data class Commits(
     val author: Author,
     val distinct: Boolean,
     val sha: String
-)
+) {
+    fun adjustedUrl(): String {
+        return url.replaceFirst("api.", "")
+            .replaceFirst("repos/", "")
+    }
+    fun markdownUrl(): String = "[${sha.take(7)}](${adjustedUrl()})"
+}
 
 @Serializable
 data class Author(
