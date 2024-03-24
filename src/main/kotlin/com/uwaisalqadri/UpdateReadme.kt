@@ -94,7 +94,7 @@ private fun fetchGithubActivity(
 
                 is PushEventPayload -> {
                     ActivityItem(
-                        text = "pushed #${payload.commits.first().sha.take(7)} to ${event.repo?.markdownUrl()}: \"${payload.commits.first().message}\"",
+                        text = "pushed (#${payload.commits.first().sha.take(7)})[${payload.commits.first().url}] to ${event.repo?.markdownUrl()}: \"${payload.commits.first().message}\"",
                         timestamp = event.createdAt
                     )
                 }
