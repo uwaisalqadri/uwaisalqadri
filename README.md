@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-03-24** — pushed [902955d](https://github.com/uwaisalqadri/DeviceFunctionality/commits/902955d2f2ea2670e444b639f4286e74ad2aa5bb) to [uwaisalqadri/DeviceFunctionality](https://github.com/uwaisalqadri/DeviceFunctionality): "feat: stop assessment once it done"
+
 **2024-03-24** — pushed [7139da6](https://github.com/uwaisalqadri/uwaisalqadri/commits/7139da641533a7c3b1ced64741a1c835a3c5f407) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "fix: link wrong format md"
 
 **2024-03-24** — commented on [#4](https://github.com/uwaisalqadri/MangaKu/issues/4#issuecomment-2016985553) in [uwaisalqadri/MangaKu](https://github.com/uwaisalqadri/MangaKu)
@@ -19,8 +21,6 @@
 **2024-03-24** — pushed [5ba0341](https://github.com/uwaisalqadri/uwaisalqadri/commits/5ba0341f1159f6d71f50f19c09a99464a73e3cd8) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: add more events to show"
 
 **2024-03-24** — pushed [4991c1f](https://github.com/uwaisalqadri/GiphyGIF/commits/4991c1f1568adb9cfffe6e770d289a97f4630df4) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "feat: green test :3"
-
-**2024-03-24** — pushed [f9eb0c4](https://github.com/uwaisalqadri/DeviceFunctionality/commits/f9eb0c463035964818c7fb88ce663e6404b1c059) to [uwaisalqadri/DeviceFunctionality](https://github.com/uwaisalqadri/DeviceFunctionality): "feat: stop assessment once it done"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
