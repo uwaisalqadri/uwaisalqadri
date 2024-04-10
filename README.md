@@ -17,10 +17,6 @@
 **2024-03-24** — pushed [902955d](https://github.com/uwaisalqadri/DeviceFunctionality/commits/902955d2f2ea2670e444b639f4286e74ad2aa5bb) to [uwaisalqadri/DeviceFunctionality](https://github.com/uwaisalqadri/DeviceFunctionality): "feat: stop assessment once it done"
 
 **2024-03-24** — pushed [7139da6](https://github.com/uwaisalqadri/uwaisalqadri/commits/7139da641533a7c3b1ced64741a1c835a3c5f407) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "fix: link wrong format md"
-
-**2024-03-24** — commented on [#4](https://github.com/uwaisalqadri/MangaKu/issues/4#issuecomment-2016985553) in [uwaisalqadri/MangaKu](https://github.com/uwaisalqadri/MangaKu)
-
-**2024-03-24** — pushed [a15c77d](https://github.com/uwaisalqadri/uwaisalqadri/commits/a15c77d7430f0d16ef80c3cc01d7ad6b94a1198b) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "fix: fix link wrong format md"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
