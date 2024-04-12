@@ -13,8 +13,6 @@
 **2024-03-26** — opened PR [#1](https://github.com/lostlegacy/lostlegacy.github.io/pull/1) to [lostlegacy/lostlegacy.github.io](https://github.com/lostlegacy/lostlegacy.github.io): "Update ez_config.json"
 
 **2024-03-26** — pushed [43d264d](https://github.com/uwaisalqadri/lostlegacy.github.io/commits/43d264d04d56e871e5e54c3817305026d617356d) to [uwaisalqadri/lostlegacy.github.io](https://github.com/uwaisalqadri/lostlegacy.github.io): "Update ez_config.json"
-
-**2024-03-24** — pushed [902955d](https://github.com/uwaisalqadri/DeviceFunctionality/commits/902955d2f2ea2670e444b639f4286e74ad2aa5bb) to [uwaisalqadri/DeviceFunctionality](https://github.com/uwaisalqadri/DeviceFunctionality): "feat: stop assessment once it done"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
