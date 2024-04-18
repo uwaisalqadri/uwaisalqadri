@@ -2,6 +2,14 @@
 
 ## GitHub Activity
 
+**2024-04-18** — pushed [61e3aa9](https://github.com/uwaisalqadri/GiphyGIF/commits/61e3aa9e2522b7771f55ca4bed29eafe27e6f694) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: try install xcodegen for ci builds"
+
+**2024-04-18** — pushed [5e982f8](https://github.com/uwaisalqadri/GiphyGIF/commits/5e982f8e7f727b3d4a3ca7c4ef8789170a1fe5eb) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: update ci command"
+
+**2024-04-18** — pushed [46e60e0](https://github.com/uwaisalqadri/GiphyGIF/commits/46e60e0db7de22a2d274b3ccc29f01d28b6e8188) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: update gitignore"
+
+**2024-04-18** — pushed [97b08ed](https://github.com/uwaisalqadri/GiphyGIF/commits/97b08ed05e02c929a8cbf726f2a629e090b1829e) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: remove unnecessary folder"
+
 **2024-04-14** — created repository on [uwaisalqadri/PeroPodspec](https://github.com/uwaisalqadri/PeroPodspec)
 
 **2024-04-14** — created branch `main` on [uwaisalqadri/PeroPodspec](https://github.com/uwaisalqadri/PeroPodspec)
@@ -13,10 +21,6 @@
 **2024-04-14** — pushed [989825b](https://github.com/uwaisalqadri/DeviceFunctionality/commits/989825b4ba995018f7c31cc73d50c4fcdd87321b) to [uwaisalqadri/DeviceFunctionality](https://github.com/uwaisalqadri/DeviceFunctionality): "feat: add app icon and refactor some code"
 
 **2024-04-04** — commented on [#4](https://github.com/uwaisalqadri/MangaKu/issues/4#issuecomment-2037419956) in [uwaisalqadri/MangaKu](https://github.com/uwaisalqadri/MangaKu)
-
-**2024-04-04** — pushed [edbf625](https://github.com/uwaisalqadri/MangaKu/commits/edbf625688917d1362703791833b2bc63a9dae5c) to [uwaisalqadri/MangaKu](https://github.com/uwaisalqadri/MangaKu): "fix: close realm when main activity destroyed / app terminated"
-
-**2024-04-02** — pushed [7415b93](https://github.com/uwaisalqadri/MusaicFM/commits/7415b9320b3e648e47b70b0511191c1212704940) to [uwaisalqadri/MusaicFM](https://github.com/uwaisalqadri/MusaicFM): "fix: remove default values and get bundle identifier directly"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
