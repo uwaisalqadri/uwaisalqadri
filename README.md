@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-04-19** — pushed [59c76e6](https://github.com/uwaisalqadri/PeroPodspec/commits/59c76e66a8a4bda0aa7861c7d8340e203bde360e) to [uwaisalqadri/PeroPodspec](https://github.com/uwaisalqadri/PeroPodspec): "[Add] Pero (0.0.1)"
+
 **2024-04-19** — created tag `0.0.1` on [uwaisalqadri/PeroPodspec](https://github.com/uwaisalqadri/PeroPodspec)
 
 **2024-04-19** — pushed [9d57f82](https://github.com/uwaisalqadri/PeroPodspec/commits/9d57f8275206c67f4c423f65d77aa725eef0c7d8) to [uwaisalqadri/PeroPodspec](https://github.com/uwaisalqadri/PeroPodspec): "chore: upload framework"
@@ -19,8 +21,6 @@
 **2024-04-14** — created branch `main` on [uwaisalqadri/PeroPodspec](https://github.com/uwaisalqadri/PeroPodspec)
 
 **2024-04-14** — created repository on [uwaisalqadri/PeroPodspec](https://github.com/uwaisalqadri/PeroPodspec)
-
-**2024-04-14** — pushed [03f54f0](https://github.com/uwaisalqadri/DeviceFunctionality/commits/03f54f06f6ab11ae90032125480181d5ebd07a06) to [uwaisalqadri/DeviceFunctionality](https://github.com/uwaisalqadri/DeviceFunctionality): "feat: add app icon and refactor some code"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
