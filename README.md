@@ -2,6 +2,12 @@
 
 ## GitHub Activity
 
+**2024-04-20** — pushed [2e397f8](https://github.com/uwaisalqadri/PeroPero/commits/2e397f86c4134302ea0c86bf5b0f4af37e574b18) to [uwaisalqadri/PeroPero](https://github.com/uwaisalqadri/PeroPero): "Initial commit"
+
+**2024-04-20** — created branch `main` on [uwaisalqadri/PeroPero](https://github.com/uwaisalqadri/PeroPero)
+
+**2024-04-20** — created repository on [uwaisalqadri/PeroPero](https://github.com/uwaisalqadri/PeroPero)
+
 **2024-04-19** — pushed [59c76e6](https://github.com/uwaisalqadri/PeroPodspec/commits/59c76e66a8a4bda0aa7861c7d8340e203bde360e) to [uwaisalqadri/PeroPodspec](https://github.com/uwaisalqadri/PeroPodspec): "[Add] Pero (0.0.1)"
 
 **2024-04-19** — created tag `0.0.1` on [uwaisalqadri/PeroPodspec](https://github.com/uwaisalqadri/PeroPodspec)
@@ -15,12 +21,6 @@
 **2024-04-18** — pushed [46e60e0](https://github.com/uwaisalqadri/GiphyGIF/commits/46e60e0db7de22a2d274b3ccc29f01d28b6e8188) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: update gitignore"
 
 **2024-04-18** — pushed [97b08ed](https://github.com/uwaisalqadri/GiphyGIF/commits/97b08ed05e02c929a8cbf726f2a629e090b1829e) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: remove unnecessary folder"
-
-**2024-04-14** — created repository on [uwaisalqadri/PeroPodspec](https://github.com/uwaisalqadri/PeroPodspec)
-
-**2024-04-14** — created branch `main` on [uwaisalqadri/PeroPodspec](https://github.com/uwaisalqadri/PeroPodspec)
-
-**2024-04-14** — created repository on [uwaisalqadri/PeroPodspec](https://github.com/uwaisalqadri/PeroPodspec)
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
