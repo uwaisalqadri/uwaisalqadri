@@ -2,6 +2,10 @@
 
 ## GitHub Activity
 
+**2024-10-10** — pushed [1059b0b](https://github.com/uwaisalqadri/GiphyGIF/commits/1059b0bd208f622420acb43ffd98b02af5d3eb4c) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "feat: simplify router propertyWrapper"
+
+**2024-10-10** — pushed [065a756](https://github.com/uwaisalqadri/GiphyGIF/commits/065a756a1c661d73b8c8a2bd7b0c16d331ee7b0c) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "feat: improve padding"
+
 **2024-10-10** — created branch `refactor/router-and-improve-code` on [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF)
 
 **2024-09-22** — pushed [5564c10](https://github.com/uwaisalqadri/Gist/commits/5564c107b11cb11c98f81cc36f5d02dbe0965cf0) to [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist): "feat: update status menu, add copy completed gist"
@@ -17,10 +21,6 @@
 **2024-09-19** — pushed [839097c](https://github.com/uwaisalqadri/SwiftDesignPattern/commits/839097c006fc314e65a35f1c0a0f45a9eb0dd054) to [uwaisalqadri/SwiftDesignPattern](https://github.com/uwaisalqadri/SwiftDesignPattern): "feat: memento"
 
 **2024-09-18** — pushed [b4ece1e](https://github.com/uwaisalqadri/SwiftDesignPattern/commits/b4ece1edc0c1a587672cbab453ce2e1dc8c23006) to [uwaisalqadri/SwiftDesignPattern](https://github.com/uwaisalqadri/SwiftDesignPattern): "feat: iterator, state"
-
-**2024-09-18** — pushed [d184e63](https://github.com/uwaisalqadri/SwiftDesignPattern/commits/d184e634b687bccebc0c0010e63c1c2377651e16) to [uwaisalqadri/SwiftDesignPattern](https://github.com/uwaisalqadri/SwiftDesignPattern): "feat: command, observer, template-method, visitor, bridge, observer"
-
-**2024-09-17** — pushed [10fdb21](https://github.com/uwaisalqadri/SwiftDesignPattern/commits/10fdb21c3a99dd4ad651f7f80d0fc0eeaf7f2863) to [uwaisalqadri/SwiftDesignPattern](https://github.com/uwaisalqadri/SwiftDesignPattern): "feat: chain of responsibility, strategy"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
