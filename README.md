@@ -2,6 +2,12 @@
 
 ## GitHub Activity
 
+**2024-10-11** — pushed [64d4531](https://github.com/uwaisalqadri/GiphyGIF/commits/64d4531b2df9d70641a9132462a37c35498f2e02) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "refactor: rename app"
+
+**2024-10-10** — pushed [ed24187](https://github.com/uwaisalqadri/GiphyGIF/commits/ed24187da8d5fc38f8ec7e0de0ca7fc82c744feb) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: new icon!"
+
+**2024-10-10** — pushed [08e6077](https://github.com/uwaisalqadri/GiphyGIF/commits/08e60779612d169ca93190c68af98d107ca79753) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: new icon!"
+
 **2024-10-10** — pushed [de029c9](https://github.com/uwaisalqadri/GiphyGIF/commits/de029c99ce47f6e1395cf8aefab08f50b19764a0) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: new icon!"
 
 **2024-10-10** — pushed [d3b4e4d](https://github.com/uwaisalqadri/GiphyGIF/commits/d3b4e4da14edf453da14b2755f5723b908965e37) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "feat: replace share as copy to clipboard instead"
@@ -15,12 +21,6 @@
 **2024-10-10** — pushed [065a756](https://github.com/uwaisalqadri/GiphyGIF/commits/065a756a1c661d73b8c8a2bd7b0c16d331ee7b0c) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "feat: improve padding"
 
 **2024-10-10** — created branch `refactor/router-and-improve-code` on [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF)
-
-**2024-09-22** — pushed [5564c10](https://github.com/uwaisalqadri/Gist/commits/5564c107b11cb11c98f81cc36f5d02dbe0965cf0) to [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist): "feat: update status menu, add copy completed gist"
-
-**2024-09-20** — pushed [4f97696](https://github.com/uwaisalqadri/Gist/commits/4f976968e229b1a75731d42202ef203a89041395) to [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist): "feat: improve code"
-
-**2024-09-20** — pushed [ba8428e](https://github.com/uwaisalqadri/Gist/commits/ba8428ea8a47260c030cad143cc1b2d920d7c837) to [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist): "feat: improve code"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
