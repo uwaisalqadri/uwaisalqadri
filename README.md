@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-10-12** — pushed [37929b7](https://github.com/uwaisalqadri/Giffy/commits/37929b772048688078ecd385fb85687a7c56acdd) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: tenor api!"
+
 **2024-10-12** — pushed [f010c6f](https://github.com/uwaisalqadri/Giffy/commits/f010c6f60747746430f13217b97dcddd2e416540) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: tenor api!"
 
 **2024-10-12** — pushed [2c27a72](https://github.com/uwaisalqadri/Giffy/commits/2c27a7265253f7939db75db3c9697ccb292f713b) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: tenor api!"
@@ -19,8 +21,6 @@
 **2024-10-10** — pushed [ed24187](https://github.com/uwaisalqadri/GiphyGIF/commits/ed24187da8d5fc38f8ec7e0de0ca7fc82c744feb) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: new icon!"
 
 **2024-10-10** — pushed [08e6077](https://github.com/uwaisalqadri/GiphyGIF/commits/08e60779612d169ca93190c68af98d107ca79753) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: new icon!"
-
-**2024-10-10** — pushed [de029c9](https://github.com/uwaisalqadri/GiphyGIF/commits/de029c99ce47f6e1395cf8aefab08f50b19764a0) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: new icon!"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
