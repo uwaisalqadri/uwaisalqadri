@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-10-13** — pushed [21cfbf7](https://github.com/uwaisalqadri/Giffy/commits/21cfbf7bddfb4aebf425c5cd0c59213dea4b27e2) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: improve ui ux"
+
 **2024-10-13** — pushed [075ca7b](https://github.com/uwaisalqadri/Giffy/commits/075ca7b46b02e9c6cc70cf1c1d91b53e6f95e141) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: utilize cached image from library instead of using download mechanism"
 
 **2024-10-13** — pushed [4107e25](https://github.com/uwaisalqadri/Giffy/commits/4107e25242c12ae67e1728392e2a3d1382aa2a15) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: utilize cached image from library instead of using download mechanism"
@@ -19,8 +21,6 @@
 **2024-10-11** — pushed [aa498e7](https://github.com/uwaisalqadri/Giffy/commits/aa498e753eb3a2d2729e14f19eb2ca57efdea463) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: prepare tenor"
 
 **2024-10-11** — pushed [9bafdcf](https://github.com/uwaisalqadri/Giffy/commits/9bafdcfa2d2e16a1a7a8ba0a5714f707576c3098) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: introduce router, improve code, very cool"
-
-**2024-10-11** — pushed [801e365](https://github.com/uwaisalqadri/Giffy/commits/801e365808c6bed584dfbdc279235b717f2a7fec) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: rename everything because copyright is good, thank god im using xcodegen"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
