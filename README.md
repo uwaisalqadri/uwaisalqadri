@@ -2,6 +2,10 @@
 
 ## GitHub Activity
 
+**2024-10-13** — pushed [075ca7b](https://github.com/uwaisalqadri/Giffy/commits/075ca7b46b02e9c6cc70cf1c1d91b53e6f95e141) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: utilize cached image from library instead of using download mechanism"
+
+**2024-10-13** — pushed [4107e25](https://github.com/uwaisalqadri/Giffy/commits/4107e25242c12ae67e1728392e2a3d1382aa2a15) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: utilize cached image from library instead of using download mechanism"
+
 **2024-10-13** — pushed [f971cae](https://github.com/uwaisalqadri/Giffy/commits/f971caeb4cf92890c06177f61270c17b7d32ecd8) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: improve code"
 
 **2024-10-12** — pushed [37929b7](https://github.com/uwaisalqadri/Giffy/commits/37929b772048688078ecd385fb85687a7c56acdd) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: tenor api!"
@@ -17,10 +21,6 @@
 **2024-10-11** — pushed [9bafdcf](https://github.com/uwaisalqadri/Giffy/commits/9bafdcfa2d2e16a1a7a8ba0a5714f707576c3098) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: introduce router, improve code, very cool"
 
 **2024-10-11** — pushed [801e365](https://github.com/uwaisalqadri/Giffy/commits/801e365808c6bed584dfbdc279235b717f2a7fec) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: rename everything because copyright is good, thank god im using xcodegen"
-
-**2024-10-11** — pushed [64d4531](https://github.com/uwaisalqadri/GiphyGIF/commits/64d4531b2df9d70641a9132462a37c35498f2e02) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "refactor: rename app"
-
-**2024-10-10** — pushed [ed24187](https://github.com/uwaisalqadri/GiphyGIF/commits/ed24187da8d5fc38f8ec7e0de0ca7fc82c744feb) to [uwaisalqadri/GiphyGIF](https://github.com/uwaisalqadri/GiphyGIF): "chore: new icon!"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
