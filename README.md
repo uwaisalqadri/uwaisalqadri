@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-10-14** — pushed [598ce1a](https://github.com/uwaisalqadri/Giffy/commits/598ce1a9e833b59cfb4ae398df1c401395a76c5a) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: rename datasource based its usecase"
+
 **2024-10-14** — pushed [7cf58d7](https://github.com/uwaisalqadri/Giffy/commits/7cf58d7c8f08baf4b7268d5d445074fdafeda299) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: update README.md"
 
 **2024-10-14** — pushed [747c386](https://github.com/uwaisalqadri/Giffy/commits/747c3868007269e6e1501e86ac4f2841beb648bc) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: update README.md"
@@ -19,8 +21,6 @@
 **2024-10-12** — pushed [37929b7](https://github.com/uwaisalqadri/Giffy/commits/37929b772048688078ecd385fb85687a7c56acdd) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: tenor api!"
 
 **2024-10-12** — pushed [f010c6f](https://github.com/uwaisalqadri/Giffy/commits/f010c6f60747746430f13217b97dcddd2e416540) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: tenor api!"
-
-**2024-10-12** — pushed [2c27a72](https://github.com/uwaisalqadri/Giffy/commits/2c27a7265253f7939db75db3c9697ccb292f713b) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: tenor api!"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
