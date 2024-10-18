@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-10-17** — pushed [6581328](https://github.com/uwaisalqadri/Giffy/commits/6581328c8fc073e141f622b42f797e52529c245b) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: only define State for router reducer"
+
 **2024-10-17** — pushed [4bb88e0](https://github.com/uwaisalqadri/Giffy/commits/4bb88e064251a305262e7e5c8c7a69a620fc9369) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: only define State for router reducer"
 
 **2024-10-14** — pushed [598ce1a](https://github.com/uwaisalqadri/Giffy/commits/598ce1a9e833b59cfb4ae398df1c401395a76c5a) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: rename datasource based its usecase"
@@ -19,8 +21,6 @@
 **2024-10-13** — pushed [4107e25](https://github.com/uwaisalqadri/Giffy/commits/4107e25242c12ae67e1728392e2a3d1382aa2a15) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: utilize cached image from library instead of using download mechanism"
 
 **2024-10-13** — pushed [f971cae](https://github.com/uwaisalqadri/Giffy/commits/f971caeb4cf92890c06177f61270c17b7d32ecd8) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: improve code"
-
-**2024-10-12** — pushed [37929b7](https://github.com/uwaisalqadri/Giffy/commits/37929b772048688078ecd385fb85687a7c56acdd) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: tenor api!"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
