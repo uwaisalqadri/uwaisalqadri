@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-10-23** — pushed [5f8c2e4](https://github.com/uwaisalqadri/Giffy/commits/5f8c2e4464d301e01ddb3fa2473d976e03659e8b) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: double tap to add favorite"
+
 **2024-10-18** — created repository on [uwaisalqadri/swift-leetcode-problem](https://github.com/uwaisalqadri/swift-leetcode-problem)
 
 **2024-10-17** — pushed [6581328](https://github.com/uwaisalqadri/Giffy/commits/6581328c8fc073e141f622b42f797e52529c245b) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: only define State for router reducer"
@@ -19,8 +21,6 @@
 **2024-10-13** — pushed [21cfbf7](https://github.com/uwaisalqadri/Giffy/commits/21cfbf7bddfb4aebf425c5cd0c59213dea4b27e2) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: improve ui ux"
 
 **2024-10-13** — pushed [075ca7b](https://github.com/uwaisalqadri/Giffy/commits/075ca7b46b02e9c6cc70cf1c1d91b53e6f95e141) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: utilize cached image from library instead of using download mechanism"
-
-**2024-10-13** — pushed [4107e25](https://github.com/uwaisalqadri/Giffy/commits/4107e25242c12ae67e1728392e2a3d1382aa2a15) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: utilize cached image from library instead of using download mechanism"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
