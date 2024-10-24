@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-10-23** — pushed [671f83b](https://github.com/uwaisalqadri/Giffy/commits/671f83b208ba1a195fd69d1764bd08e92e31fa2a) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: use chevron to close detail"
+
 **2024-10-23** — pushed [5f8c2e4](https://github.com/uwaisalqadri/Giffy/commits/5f8c2e4464d301e01ddb3fa2473d976e03659e8b) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: double tap to add favorite"
 
 **2024-10-18** — created repository on [uwaisalqadri/swift-leetcode-problem](https://github.com/uwaisalqadri/swift-leetcode-problem)
@@ -19,8 +21,6 @@
 **2024-10-13** — pushed [1e3c6ff](https://github.com/uwaisalqadri/Giffy/commits/1e3c6ffa74c4c96c0c611f719579d7d230f85761) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: improve api config code"
 
 **2024-10-13** — pushed [21cfbf7](https://github.com/uwaisalqadri/Giffy/commits/21cfbf7bddfb4aebf425c5cd0c59213dea4b27e2) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: improve ui ux"
-
-**2024-10-13** — pushed [075ca7b](https://github.com/uwaisalqadri/Giffy/commits/075ca7b46b02e9c6cc70cf1c1d91b53e6f95e141) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: utilize cached image from library instead of using download mechanism"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
