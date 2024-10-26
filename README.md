@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-10-26** — pushed [4eb96d0](https://github.com/uwaisalqadri/DeviceFunctionality/commits/4eb96d060be51a9549a7224d5f7e45d1105365f2) to [uwaisalqadri/DeviceFunctionality](https://github.com/uwaisalqadri/DeviceFunctionality): "feat: improve ui ux and add phone status features"
+
 **2024-10-26** — pushed [46956d2](https://github.com/uwaisalqadri/DeviceFunctionality/commits/46956d2e09c303b40824458637cf108d05961429) to [uwaisalqadri/DeviceFunctionality](https://github.com/uwaisalqadri/DeviceFunctionality): "feat: set passed indicator, set dark mode"
 
 **2024-10-26** — pushed [ae096a4](https://github.com/uwaisalqadri/DeviceFunctionality/commits/ae096a4fe8dbb52d7830384b0f6c2c1e222e8df5) to [uwaisalqadri/DeviceFunctionality](https://github.com/uwaisalqadri/DeviceFunctionality): "feat: change app icon!"
@@ -19,8 +21,6 @@
 **2024-10-23** — pushed [5f8c2e4](https://github.com/uwaisalqadri/Giffy/commits/5f8c2e4464d301e01ddb3fa2473d976e03659e8b) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: double tap to add favorite"
 
 **2024-10-18** — created repository on [uwaisalqadri/swift-leetcode-problem](https://github.com/uwaisalqadri/swift-leetcode-problem)
-
-**2024-10-17** — pushed [6581328](https://github.com/uwaisalqadri/Giffy/commits/6581328c8fc073e141f622b42f797e52529c245b) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: only define State for router reducer"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
