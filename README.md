@@ -2,6 +2,10 @@
 
 ## GitHub Activity
 
+**2024-10-26** — pushed [c9d58f7](https://github.com/uwaisalqadri/inOS/commits/c9d58f7498f03539e8e3a916accf1e93be7f3228) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: intiate camera implementation, deadpixel, and equal-spacing status"
+
+**2024-10-26** — pushed [08274f8](https://github.com/uwaisalqadri/inOS/commits/08274f88f1797bf2f6b2c1a21676055781d1058c) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: intiate camera implementation, deadpixel, and equal-spacing status"
+
 **2024-10-26** — pushed [14eaf75](https://github.com/uwaisalqadri/inOS/commits/14eaf7561bbac6556962b70a52ac45b4b4c9c435) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: show specs programatically"
 
 **2024-10-26** — pushed [2a46029](https://github.com/uwaisalqadri/inOS/commits/2a46029290267902a133045aee479a1c2aedef8b) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: revert change for introduction"
@@ -17,10 +21,6 @@
 **2024-10-26** — pushed [5d819b7](https://github.com/uwaisalqadri/DeviceFunctionality/commits/5d819b7cc211eddf4eb7f0c0d72c6f3ef8f7d788) to [uwaisalqadri/DeviceFunctionality](https://github.com/uwaisalqadri/DeviceFunctionality): "feat: change app icon!"
 
 **2024-10-26** — pushed [cb32cf0](https://github.com/uwaisalqadri/Giffy/commits/cb32cf0de14be5860841bafa110b7ead0e9f7d9a) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: improves code"
-
-**2024-10-24** — pushed [925e6fc](https://github.com/uwaisalqadri/Giffy/commits/925e6fc2f9b6e854b7bc48a87b5df2e48044ac37) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: adjust padding to hide corner radius for detail"
-
-**2024-10-23** — pushed [ba4ca2b](https://github.com/uwaisalqadri/Giffy/commits/ba4ca2bd94e6c79c9526e9316fb6103c846201db) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: rename to dbservice"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
