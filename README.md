@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-11-01** — pushed [d5c257e](https://github.com/uwaisalqadri/inOS/commits/d5c257e20d25c7904bd1712a034ab913b376b2ba) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: wip multitouch"
+
 **2024-10-27** — pushed [10b81f4](https://github.com/uwaisalqadri/inOS/commits/10b81f44dbf3a599123929be1381468ef6831e7c) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: reset passed assessments"
 
 **2024-10-27** — pushed [d5912ba](https://github.com/uwaisalqadri/inOS/commits/d5912ba8029978cc5c63ca74fe28ede9395faa30) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: replace `Just` with `onChange(of:)` to avoid mistakes"
@@ -19,8 +21,6 @@
 **2024-10-27** — pushed [3f89e8e](https://github.com/uwaisalqadri/inOS/commits/3f89e8e235261da7813847fd8be09345ea287ff5) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: `utilities` category"
 
 **2024-10-27** — pushed [405a9b7](https://github.com/uwaisalqadri/inOS/commits/405a9b7c8ba791a05b14572f09c2514a066894e7) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: set ui for camera"
-
-**2024-10-27** — pushed [ac68c4d](https://github.com/uwaisalqadri/inOS/commits/ac68c4d84652749f3e458c0b2c4b8f7a9628533e) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: improve code"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
