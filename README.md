@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-11-04** — pushed [a3f421a](https://github.com/uwaisalqadri/inOS/commits/a3f421a59a6c2eeb4425a24c23d102b162482e2e) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: refactor on some ui"
+
 **2024-11-04** — pushed [a7f41df](https://github.com/uwaisalqadri/inOS/commits/a7f41dfa575165765bbd3c13a066b4675a284d38) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: confirmational alert field, improve darkmode and multitouch"
 
 **2024-11-04** — pushed [14abfc8](https://github.com/uwaisalqadri/inOS/commits/14abfc8259afd3898214fd38821a179b35bf917a) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: confirmational alert field, improve darkmode and multitouch"
@@ -19,8 +21,6 @@
 **2024-10-27** — pushed [be27f09](https://github.com/uwaisalqadri/inOS/commits/be27f09e42faa6a9888740a1226bf85e6f461a8e) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: replace `Just` with `onChange(of:)` to avoid mistakes"
 
 **2024-10-27** — pushed [7ea28b2](https://github.com/uwaisalqadri/inOS/commits/7ea28b253e5aef3329d25d2c7b3d7b843d72231a) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: replace Just with `onChange(of:)` to avoid mistakes"
-
-**2024-10-27** — pushed [ca8fa25](https://github.com/uwaisalqadri/inOS/commits/ca8fa25570eaab2ae5fb35e22b6acc4ac35252fb) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: auto scroll !!!!"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
