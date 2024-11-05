@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-11-04** — pushed [0bfd098](https://github.com/uwaisalqadri/inOS/commits/0bfd09858f493609972e45c01631f6077b3fe2af) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: app settings for permission purpose"
+
 **2024-11-04** — pushed [7509e12](https://github.com/uwaisalqadri/inOS/commits/7509e1247e22fb79867ab540a2669f12ed14dd2f) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: stop serial test properly correctly"
 
 **2024-11-04** — pushed [f4e39b9](https://github.com/uwaisalqadri/inOS/commits/f4e39b9bf2db379af28e39b9b1567f2258c3b296) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: stop serial test properly correctly"
@@ -19,8 +21,6 @@
 **2024-11-01** — pushed [d5c257e](https://github.com/uwaisalqadri/inOS/commits/d5c257e20d25c7904bd1712a034ab913b376b2ba) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: wip multitouch"
 
 **2024-10-27** — pushed [10b81f4](https://github.com/uwaisalqadri/inOS/commits/10b81f44dbf3a599123929be1381468ef6831e7c) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: reset passed assessments"
-
-**2024-10-27** — pushed [d5912ba](https://github.com/uwaisalqadri/inOS/commits/d5912ba8029978cc5c63ca74fe28ede9395faa30) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: replace `Just` with `onChange(of:)` to avoid mistakes"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
