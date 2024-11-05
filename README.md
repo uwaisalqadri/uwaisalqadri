@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-11-04** — pushed [1a28bdb](https://github.com/uwaisalqadri/inOS/commits/1a28bdbf322ba75d002c9d314b75a60344adef5c) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: improve activity indicator and introduction view"
+
 **2024-11-04** — pushed [0bfd098](https://github.com/uwaisalqadri/inOS/commits/0bfd09858f493609972e45c01631f6077b3fe2af) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: app settings for permission purpose"
 
 **2024-11-04** — pushed [7509e12](https://github.com/uwaisalqadri/inOS/commits/7509e1247e22fb79867ab540a2669f12ed14dd2f) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: stop serial test properly correctly"
@@ -19,8 +21,6 @@
 **2024-11-04** — pushed [333de77](https://github.com/uwaisalqadri/inOS/commits/333de77e048c387f9331a3ac9f6f9e5115f9583a) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: input number to validate sounds assessment"
 
 **2024-11-01** — pushed [d5c257e](https://github.com/uwaisalqadri/inOS/commits/d5c257e20d25c7904bd1712a034ab913b376b2ba) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: wip multitouch"
-
-**2024-10-27** — pushed [10b81f4](https://github.com/uwaisalqadri/inOS/commits/10b81f44dbf3a599123929be1381468ef6831e7c) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: reset passed assessments"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
