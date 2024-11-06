@@ -2,6 +2,10 @@
 
 ## GitHub Activity
 
+**2024-11-05** — pushed [4b927de](https://github.com/uwaisalqadri/inOS/commits/4b927dee6d8b199ba83adc336367f54b9d90d264) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: reset singletion instance"
+
+**2024-11-05** — pushed [add730a](https://github.com/uwaisalqadri/inOS/commits/add730aca8f0f1c7f4a29e70ef4a7a98ddbe0573) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: reset singletion instance"
+
 **2024-11-05** — pushed [d7b78c7](https://github.com/uwaisalqadri/inOS/commits/d7b78c75ed3ebf7a512e3ddfe61d51827e34b714) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: add grabber"
 
 **2024-11-05** — pushed [02fef30](https://github.com/uwaisalqadri/inOS/commits/02fef3006896755ac764c1de0c90ee38cda04b50) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: add grabber"
@@ -17,10 +21,6 @@
 **2024-11-05** — created branch `backup` on [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS)
 
 **2024-11-04** — pushed [333de77](https://github.com/uwaisalqadri/inOS/commits/333de77e048c387f9331a3ac9f6f9e5115f9583a) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: input number to validate sounds assessment"
-
-**2024-11-04** — pushed [1a28bdb](https://github.com/uwaisalqadri/inOS/commits/1a28bdbf322ba75d002c9d314b75a60344adef5c) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: improve activity indicator and introduction view"
-
-**2024-11-04** — pushed [0bfd098](https://github.com/uwaisalqadri/inOS/commits/0bfd09858f493609972e45c01631f6077b3fe2af) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: app settings for permission purpose"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
