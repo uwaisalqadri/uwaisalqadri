@@ -2,6 +2,10 @@
 
 ## GitHub Activity
 
+**2024-11-09** — pushed [a56f839](https://github.com/uwaisalqadri/Giffy/commits/a56f8393df1b8e7224010d8f17e66653fb41b3a2) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: impact feedback everywhere"
+
+**2024-11-09** — pushed [6d3d6cc](https://github.com/uwaisalqadri/Giffy/commits/6d3d6cca8a9c95ec33cd1a1565655e1e05a15ec1) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: set shape for context menu preview"
+
 **2024-11-09** — pushed [642066f](https://github.com/uwaisalqadri/Giffy/commits/642066f76847df272150d5b47ade508961619209) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: set heart view as overlay to avoid laggy condition caused by rendered animation"
 
 **2024-11-09** — pushed [3a3c4bf](https://github.com/uwaisalqadri/Giffy/commits/3a3c4bf56af05e2da1f0aefd748a3945cb84fbfa) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: several improvements"
@@ -17,10 +21,6 @@
 **2024-11-05** — pushed [02fef30](https://github.com/uwaisalqadri/inOS/commits/02fef3006896755ac764c1de0c90ee38cda04b50) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: add grabber"
 
 **2024-11-05** — pushed [6a9865c](https://github.com/uwaisalqadri/inOS/commits/6a9865ccc3d91a95dbde03518b0ece2951f0c314) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: add grabber"
-
-**2024-11-05** — created branch `backup` on [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS)
-
-**2024-11-05** — pushed [eb07e7c](https://github.com/uwaisalqadri/inOS/commits/eb07e7c075353aa7d3925fffe4674676988c36b1) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: camera permission issue and add message for deadpixel"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
