@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-11-08** — pushed [5a4a7d3](https://github.com/uwaisalqadri/Giffy/commits/5a4a7d385c9dd0a0019db296154c716059dbde25) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: animate add favorite"
+
 **2024-11-05** — pushed [4b927de](https://github.com/uwaisalqadri/inOS/commits/4b927dee6d8b199ba83adc336367f54b9d90d264) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: reset singletion instance"
 
 **2024-11-05** — pushed [add730a](https://github.com/uwaisalqadri/inOS/commits/add730aca8f0f1c7f4a29e70ef4a7a98ddbe0573) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: reset singletion instance"
@@ -19,8 +21,6 @@
 **2024-11-05** — pushed [70ef108](https://github.com/uwaisalqadri/inOS/commits/70ef1085e998cfadfd5d14cf5421279b0caac20e) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: input number to validate sounds assessment"
 
 **2024-11-05** — created branch `backup` on [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS)
-
-**2024-11-04** — pushed [333de77](https://github.com/uwaisalqadri/inOS/commits/333de77e048c387f9331a3ac9f6f9e5115f9583a) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: input number to validate sounds assessment"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
