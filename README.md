@@ -2,6 +2,10 @@
 
 ## GitHub Activity
 
+**2024-11-09** — pushed [642066f](https://github.com/uwaisalqadri/Giffy/commits/642066f76847df272150d5b47ade508961619209) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: set heart view as overlay to avoid laggy condition caused by rendered animation"
+
+**2024-11-09** — pushed [3a3c4bf](https://github.com/uwaisalqadri/Giffy/commits/3a3c4bf56af05e2da1f0aefd748a3945cb84fbfa) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: several improvements"
+
 **2024-11-08** — pushed [5a4a7d3](https://github.com/uwaisalqadri/Giffy/commits/5a4a7d385c9dd0a0019db296154c716059dbde25) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: animate add favorite"
 
 **2024-11-05** — pushed [4b927de](https://github.com/uwaisalqadri/inOS/commits/4b927dee6d8b199ba83adc336367f54b9d90d264) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: reset singletion instance"
@@ -17,10 +21,6 @@
 **2024-11-05** — created branch `backup` on [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS)
 
 **2024-11-05** — pushed [eb07e7c](https://github.com/uwaisalqadri/inOS/commits/eb07e7c075353aa7d3925fffe4674676988c36b1) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: camera permission issue and add message for deadpixel"
-
-**2024-11-05** — pushed [70ef108](https://github.com/uwaisalqadri/inOS/commits/70ef1085e998cfadfd5d14cf5421279b0caac20e) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: input number to validate sounds assessment"
-
-**2024-11-05** — created branch `backup` on [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS)
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
