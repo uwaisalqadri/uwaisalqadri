@@ -2,6 +2,14 @@
 
 ## GitHub Activity
 
+**2024-11-10** — pushed [f65a3ad](https://github.com/uwaisalqadri/Giffy/commits/f65a3ad322f26ffb0c17f58f3f79c6287cddde21) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: background removal feature 🚀"
+
+**2024-11-10** — pushed [eb918a0](https://github.com/uwaisalqadri/Giffy/commits/eb918a02d52fe964fbf3734981e6f5e62d454d13) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: background removal feature 🚀"
+
+**2024-11-10** — pushed [673ca1e](https://github.com/uwaisalqadri/Giffy/commits/673ca1e8b2046bd93fd106977e81b45cbdbd1f3a) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: background removal feature 🚀"
+
+**2024-11-10** — pushed [218ca0d](https://github.com/uwaisalqadri/Giffy/commits/218ca0da49047443311e6008e91675b56060d2cf) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: background removal feature 🚀"
+
 **2024-11-09** — pushed [dba2215](https://github.com/uwaisalqadri/Giffy/commits/dba221561280cd98ca5a15dbb8a5531c564b5702) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: wip making sticker"
 
 **2024-11-09** — created branch `feature/ai-gen-and-image-vision` on [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy)
@@ -13,14 +21,6 @@
 **2024-11-09** — pushed [642066f](https://github.com/uwaisalqadri/Giffy/commits/642066f76847df272150d5b47ade508961619209) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: set heart view as overlay to avoid laggy condition caused by rendered animation"
 
 **2024-11-09** — pushed [3a3c4bf](https://github.com/uwaisalqadri/Giffy/commits/3a3c4bf56af05e2da1f0aefd748a3945cb84fbfa) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: several improvements"
-
-**2024-11-08** — pushed [5a4a7d3](https://github.com/uwaisalqadri/Giffy/commits/5a4a7d385c9dd0a0019db296154c716059dbde25) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: animate add favorite"
-
-**2024-11-05** — pushed [4b927de](https://github.com/uwaisalqadri/inOS/commits/4b927dee6d8b199ba83adc336367f54b9d90d264) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: reset singletion instance"
-
-**2024-11-05** — pushed [add730a](https://github.com/uwaisalqadri/inOS/commits/add730aca8f0f1c7f4a29e70ef4a7a98ddbe0573) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: reset singletion instance"
-
-**2024-11-05** — pushed [d7b78c7](https://github.com/uwaisalqadri/inOS/commits/d7b78c75ed3ebf7a512e3ddfe61d51827e34b714) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: add grabber"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
