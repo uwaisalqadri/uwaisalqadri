@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-11-11** — pushed [2e48b65](https://github.com/uwaisalqadri/Giffy/commits/2e48b654a26bc533b2d6cad63f270216c9026b68) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: background removal feature 🚀"
+
 **2024-11-11** — pushed [bcd060e](https://github.com/uwaisalqadri/Giffy/commits/bcd060eef9faec994644012bcb9865ec77c3cf9d) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: background removal feature 🚀"
 
 **2024-11-10** — pushed [f65a3ad](https://github.com/uwaisalqadri/Giffy/commits/f65a3ad322f26ffb0c17f58f3f79c6287cddde21) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: background removal feature 🚀"
@@ -19,8 +21,6 @@
 **2024-11-09** — pushed [a56f839](https://github.com/uwaisalqadri/Giffy/commits/a56f8393df1b8e7224010d8f17e66653fb41b3a2) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: impact feedback everywhere"
 
 **2024-11-09** — pushed [6d3d6cc](https://github.com/uwaisalqadri/Giffy/commits/6d3d6cca8a9c95ec33cd1a1565655e1e05a15ec1) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: set shape for context menu preview"
-
-**2024-11-09** — pushed [642066f](https://github.com/uwaisalqadri/Giffy/commits/642066f76847df272150d5b47ade508961619209) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: set heart view as overlay to avoid laggy condition caused by rendered animation"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
