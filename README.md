@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-11-30** — pushed [157ca23](https://github.com/uwaisalqadri/inOS/commits/157ca2399c476f2e6d9a81379456c8d207a766c4) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "some significant changes"
+
 **2024-11-27** — created branch `new-feature` on [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS)
 
 **2024-11-24** — pushed [92225ec](https://github.com/uwaisalqadri/uwaisalqadri.github.io/commits/92225ecdbf856625c0518da2c1e8246859d5e850) to [uwaisalqadri/uwaisalqadri.github.io](https://github.com/uwaisalqadri/uwaisalqadri.github.io): "feat: finish about section"
@@ -19,8 +21,6 @@
 **2024-11-23** — pushed [e21b459](https://github.com/uwaisalqadri/uwaisalqadri.github.io/commits/e21b45971ee194bb9dff4d1977f8e62292c578af) to [uwaisalqadri/uwaisalqadri.github.io](https://github.com/uwaisalqadri/uwaisalqadri.github.io): "feat: constructing.."
 
 **2024-11-23** — pushed [f3c192c](https://github.com/uwaisalqadri/uwaisalqadri.github.io/commits/f3c192c23f3315f25fd81a562b5c183181e44b64) to [uwaisalqadri/uwaisalqadri.github.io](https://github.com/uwaisalqadri/uwaisalqadri.github.io): "feat: constructing.."
-
-**2024-11-23** — pushed [f30ffc7](https://github.com/uwaisalqadri/uwaisalqadri.github.io/commits/f30ffc7407e463e9e6368528120f7bd3652f93fb) to [uwaisalqadri/uwaisalqadri.github.io](https://github.com/uwaisalqadri/uwaisalqadri.github.io): "feat: constructing.."
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
