@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-12-05** — pushed [d695ee4](https://github.com/uwaisalqadri/Giffy/commits/d695ee43ed91261b695fa605d4d355c88c123f66) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "style: update fonts"
+
 **2024-12-03** — pushed [69b699b](https://github.com/uwaisalqadri/Giffy/commits/69b699b4451b91c4c64ef2fdd23146ef7d3d97ba) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: ui improvements"
 
 **2024-12-01** — pushed [9df17c1](https://github.com/uwaisalqadri/inOS/commits/9df17c195841695fd59ea0d37df90dbbd1a137db) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: wip cpu benchmark feature"
@@ -19,8 +21,6 @@
 **2024-11-23** — pushed [ead5169](https://github.com/uwaisalqadri/uwaisalqadri.github.io/commits/ead5169fa633da52f3df1b9ebb25b310e4345609) to [uwaisalqadri/uwaisalqadri.github.io](https://github.com/uwaisalqadri/uwaisalqadri.github.io): "feat: constructing.."
 
 **2024-11-23** — pushed [45b6a6b](https://github.com/uwaisalqadri/uwaisalqadri.github.io/commits/45b6a6b99cea6e6f14d6dc0510e95aca2be16210) to [uwaisalqadri/uwaisalqadri.github.io](https://github.com/uwaisalqadri/uwaisalqadri.github.io): "feat: constructing.."
-
-**2024-11-23** — pushed [115cd92](https://github.com/uwaisalqadri/uwaisalqadri.github.io/commits/115cd92e70c549ca99588cf0da884aaabb836b01) to [uwaisalqadri/uwaisalqadri.github.io](https://github.com/uwaisalqadri/uwaisalqadri.github.io): "feat: constructing.."
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
