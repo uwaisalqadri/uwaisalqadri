@@ -2,6 +2,10 @@
 
 ## GitHub Activity
 
+**2024-12-07** — pushed [2b064be](https://github.com/uwaisalqadri/Giffy/commits/2b064be25f23dff5bbf9acc6aa0b1240bd9fa9c6) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: change repository to interactors, and typealiases as usecase for better pattern"
+
+**2024-12-07** — pushed [3416dff](https://github.com/uwaisalqadri/Giffy/commits/3416dffed2aff34a53cc28b89ac869ef886883f9) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: change repository to interactors, and typealiases as usecase for better pattern"
+
 **2024-12-07** — pushed [cce543f](https://github.com/uwaisalqadri/Giffy/commits/cce543fe8dcbc7b3a7f176a72298e80401f86958) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: improve localizable and mapper"
 
 **2024-12-07** — pushed [3750e4c](https://github.com/uwaisalqadri/Giffy/commits/3750e4c002ceaee46317a0b9a805f18fa5f1e2b3) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: improve localizable and mapper"
@@ -17,10 +21,6 @@
 **2024-12-07** — pushed [196668d](https://github.com/uwaisalqadri/Giffy/commits/196668d2cb3bc4da8ffe498c33a2c59a1421c61c) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: hide ai gen feature for a while"
 
 **2024-12-07** — pushed [8cdfb55](https://github.com/uwaisalqadri/Giffy/commits/8cdfb55a97a9c07a81367086e8f491cb46ccf0b8) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: hide ai gen feature for a while"
-
-**2024-12-07** — pushed [62a7132](https://github.com/uwaisalqadri/Giffy/commits/62a713224524d5b457765d42044e5f85c5a28dc4) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: create Keys.plist"
-
-**2024-12-05** — pushed [d695ee4](https://github.com/uwaisalqadri/Giffy/commits/d695ee43ed91261b695fa605d4d355c88c123f66) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "style: update fonts"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
