@@ -2,6 +2,16 @@
 
 ## GitHub Activity
 
+**2024-12-07** — pushed [2e48b65](https://github.com/uwaisalqadri/Giffy/commits/2e48b654a26bc533b2d6cad63f270216c9026b68) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: background removal feature 🚀"
+
+**2024-12-07** — pushed [d736af3](https://github.com/uwaisalqadri/Giffy/commits/d736af3ca704bf4d36609c3857f4bff72074f3f3) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: hide ai gen feature for a while"
+
+**2024-12-07** — pushed [196668d](https://github.com/uwaisalqadri/Giffy/commits/196668d2cb3bc4da8ffe498c33a2c59a1421c61c) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: hide ai gen feature for a while"
+
+**2024-12-07** — pushed [8cdfb55](https://github.com/uwaisalqadri/Giffy/commits/8cdfb55a97a9c07a81367086e8f491cb46ccf0b8) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: hide ai gen feature for a while"
+
+**2024-12-07** — pushed [62a7132](https://github.com/uwaisalqadri/Giffy/commits/62a713224524d5b457765d42044e5f85c5a28dc4) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: create Keys.plist"
+
 **2024-12-05** — pushed [d695ee4](https://github.com/uwaisalqadri/Giffy/commits/d695ee43ed91261b695fa605d4d355c88c123f66) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "style: update fonts"
 
 **2024-12-03** — pushed [69b699b](https://github.com/uwaisalqadri/Giffy/commits/69b699b4451b91c4c64ef2fdd23146ef7d3d97ba) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: ui improvements"
@@ -11,16 +21,6 @@
 **2024-11-30** — pushed [157ca23](https://github.com/uwaisalqadri/inOS/commits/157ca2399c476f2e6d9a81379456c8d207a766c4) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "some significant changes"
 
 **2024-11-27** — created branch `new-feature` on [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS)
-
-**2024-11-24** — pushed [92225ec](https://github.com/uwaisalqadri/uwaisalqadri.github.io/commits/92225ecdbf856625c0518da2c1e8246859d5e850) to [uwaisalqadri/uwaisalqadri.github.io](https://github.com/uwaisalqadri/uwaisalqadri.github.io): "feat: finish about section"
-
-**2024-11-23** — pushed [d6705ae](https://github.com/uwaisalqadri/uwaisalqadri.github.io/commits/d6705ae8e768e951b8ca60362fadc0d3a66ff632) to [uwaisalqadri/uwaisalqadri.github.io](https://github.com/uwaisalqadri/uwaisalqadri.github.io): "feat: code restructure"
-
-**2024-11-23** — pushed [d07e14d](https://github.com/uwaisalqadri/uwaisalqadri.github.io/commits/d07e14d997d1bb124268d19eb39cd22c3241014d) to [uwaisalqadri/uwaisalqadri.github.io](https://github.com/uwaisalqadri/uwaisalqadri.github.io): "feat: constructing.."
-
-**2024-11-23** — pushed [ead5169](https://github.com/uwaisalqadri/uwaisalqadri.github.io/commits/ead5169fa633da52f3df1b9ebb25b310e4345609) to [uwaisalqadri/uwaisalqadri.github.io](https://github.com/uwaisalqadri/uwaisalqadri.github.io): "feat: constructing.."
-
-**2024-11-23** — pushed [45b6a6b](https://github.com/uwaisalqadri/uwaisalqadri.github.io/commits/45b6a6b99cea6e6f14d6dc0510e95aca2be16210) to [uwaisalqadri/uwaisalqadri.github.io](https://github.com/uwaisalqadri/uwaisalqadri.github.io): "feat: constructing.."
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
