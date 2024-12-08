@@ -2,6 +2,10 @@
 
 ## GitHub Activity
 
+**2024-12-08** — pushed [9c0ee36](https://github.com/uwaisalqadri/inOS/commits/9c0ee365f7c72c5bfbd0687beda10f7ee88cb72f) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: mock data"
+
+**2024-12-08** — pushed [1f0d865](https://github.com/uwaisalqadri/Giffy/commits/1f0d865d0cb91f1d5fd007e9f977ea7e7fe8f878) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: set contentMode and prefetcher"
+
 **2024-12-08** — pushed [f4f425f](https://github.com/uwaisalqadri/Giffy/commits/f4f425ff39ded3253ac1fd40ac4ddc4cfd2f4bc9) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: wrap the AnimatedImage to solve dependent to external library"
 
 **2024-12-08** — pushed [14fc425](https://github.com/uwaisalqadri/Giffy/commits/14fc425eab70fbf2f2ef834c5a361e0cd6375390) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: wrap the AnimatedImage to solve dependent to external library"
@@ -17,10 +21,6 @@
 **2024-12-07** — pushed [3416dff](https://github.com/uwaisalqadri/Giffy/commits/3416dffed2aff34a53cc28b89ac869ef886883f9) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: change repository to interactors, and typealiases as usecase for better pattern"
 
 **2024-12-07** — pushed [cce543f](https://github.com/uwaisalqadri/Giffy/commits/cce543fe8dcbc7b3a7f176a72298e80401f86958) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: improve localizable and mapper"
-
-**2024-12-07** — pushed [3750e4c](https://github.com/uwaisalqadri/Giffy/commits/3750e4c002ceaee46317a0b9a805f18fa5f1e2b3) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: improve localizable and mapper"
-
-**2024-12-07** — pushed [d7a8a6c](https://github.com/uwaisalqadri/Giffy/commits/d7a8a6c0cb5c30beeb86a92e26b4859c15fe8eaa) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: improve localizable"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
