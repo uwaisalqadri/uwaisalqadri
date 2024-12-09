@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-12-09** — created repository on [uwaisalqadri/EBuddy](https://github.com/uwaisalqadri/EBuddy)
+
 **2024-12-08** — pushed [2c2d7ea](https://github.com/uwaisalqadri/Giffy/commits/2c2d7ea2f1f2a299f7fd3da9ea8ce314dba46de9) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: rename usecase property names"
 
 **2024-12-08** — pushed [51378a8](https://github.com/uwaisalqadri/Giffy/commits/51378a8ae8dd07dba73b49788a00fb57269e7023) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: adjust ugly ui"
@@ -19,8 +21,6 @@
 **2024-12-08** — pushed [919e254](https://github.com/uwaisalqadri/Giffy/commits/919e25426678cb3cd144c70d97afd4953b71a7c8) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: detailview is now a carousel viewer to easily change between giffies 🎊"
 
 **2024-12-07** — pushed [67a8057](https://github.com/uwaisalqadri/Giffy/commits/67a8057017597c0acf02cc0dc8f98e81a9d4970b) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: show gif as a greet"
-
-**2024-12-07** — pushed [2b064be](https://github.com/uwaisalqadri/Giffy/commits/2b064be25f23dff5bbf9acc6aa0b1240bd9fa9c6) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: change repository to interactors, and typealiases as usecase for better pattern"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
