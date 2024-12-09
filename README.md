@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-12-09** — pushed [1e0507f](https://github.com/uwaisalqadri/Buddy/commits/1e0507f6eb712f5f550037cbf4c0b1638998c063) to [uwaisalqadri/Buddy](https://github.com/uwaisalqadri/Buddy): "chore: initial commit"
+
 **2024-12-09** — pushed [2baa00a](https://github.com/uwaisalqadri/EBuddy/commits/2baa00aa2d0c0ad143a33f52fbccc23736171451) to [uwaisalqadri/EBuddy](https://github.com/uwaisalqadri/EBuddy): "chore: initial commit"
 
 **2024-12-09** — created branch `main` on [uwaisalqadri/EBuddy](https://github.com/uwaisalqadri/EBuddy)
@@ -19,8 +21,6 @@
 **2024-12-08** — pushed [f4f425f](https://github.com/uwaisalqadri/Giffy/commits/f4f425ff39ded3253ac1fd40ac4ddc4cfd2f4bc9) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: wrap the AnimatedImage to solve dependent to external library"
 
 **2024-12-08** — pushed [14fc425](https://github.com/uwaisalqadri/Giffy/commits/14fc425eab70fbf2f2ef834c5a361e0cd6375390) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: wrap the AnimatedImage to solve dependent to external library"
-
-**2024-12-08** — pushed [088f67e](https://github.com/uwaisalqadri/Giffy/commits/088f67e83070fe1cfad4cf5e907a37adf8c115f6) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: detailview is now a carousel viewer to easily change between giffies 🎊"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
