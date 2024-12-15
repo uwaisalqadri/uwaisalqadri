@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-12-14** — pushed [af26477](https://github.com/uwaisalqadri/Giffy/commits/af26477f5b5ef4afd1dfa6da00c2355020649c76) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: set screen width as the maximum"
+
 **2024-12-09** — pushed [1e0507f](https://github.com/uwaisalqadri/Buddy/commits/1e0507f6eb712f5f550037cbf4c0b1638998c063) to [uwaisalqadri/Buddy](https://github.com/uwaisalqadri/Buddy): "chore: initial commit"
 
 **2024-12-09** — pushed [2baa00a](https://github.com/uwaisalqadri/EBuddy/commits/2baa00aa2d0c0ad143a33f52fbccc23736171451) to [uwaisalqadri/EBuddy](https://github.com/uwaisalqadri/EBuddy): "chore: initial commit"
@@ -19,8 +21,6 @@
 **2024-12-08** — pushed [1f0d865](https://github.com/uwaisalqadri/Giffy/commits/1f0d865d0cb91f1d5fd007e9f977ea7e7fe8f878) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: set contentMode and prefetcher"
 
 **2024-12-08** — pushed [f4f425f](https://github.com/uwaisalqadri/Giffy/commits/f4f425ff39ded3253ac1fd40ac4ddc4cfd2f4bc9) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: wrap the AnimatedImage to solve dependent to external library"
-
-**2024-12-08** — pushed [14fc425](https://github.com/uwaisalqadri/Giffy/commits/14fc425eab70fbf2f2ef834c5a361e0cd6375390) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: wrap the AnimatedImage to solve dependent to external library"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
