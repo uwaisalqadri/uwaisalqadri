@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-12-22** — pushed [d577d0f](https://github.com/uwaisalqadri/Giffy/commits/d577d0f5287b79b91b90d1753f8be222049625c3) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: remove unnecessary code"
+
 **2024-12-14** — pushed [af26477](https://github.com/uwaisalqadri/Giffy/commits/af26477f5b5ef4afd1dfa6da00c2355020649c76) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: set screen width as the maximum"
 
 **2024-12-09** — pushed [1e0507f](https://github.com/uwaisalqadri/Buddy/commits/1e0507f6eb712f5f550037cbf4c0b1638998c063) to [uwaisalqadri/Buddy](https://github.com/uwaisalqadri/Buddy): "chore: initial commit"
@@ -19,8 +21,6 @@
 **2024-12-08** — pushed [9c0ee36](https://github.com/uwaisalqadri/inOS/commits/9c0ee365f7c72c5bfbd0687beda10f7ee88cb72f) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: mock data"
 
 **2024-12-08** — pushed [1f0d865](https://github.com/uwaisalqadri/Giffy/commits/1f0d865d0cb91f1d5fd007e9f977ea7e7fe8f878) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: set contentMode and prefetcher"
-
-**2024-12-08** — pushed [f4f425f](https://github.com/uwaisalqadri/Giffy/commits/f4f425ff39ded3253ac1fd40ac4ddc4cfd2f4bc9) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: wrap the AnimatedImage to solve dependent to external library"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
