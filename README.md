@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2024-12-28** — pushed [2701376](https://github.com/uwaisalqadri/Giffy/commits/27013765f8f2e7c268b1dda03017165a0b6d5dc2) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: share implementation for outside apps"
+
 **2024-12-28** — pushed [037e311](https://github.com/uwaisalqadri/Giffy/commits/037e311b8509b6fccacc0139f7e9c740e8c87294) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: share feature ui and implementation"
 
 **2024-12-28** — pushed [6881646](https://github.com/uwaisalqadri/Giffy/commits/6881646bc876415ef43f7abdb919d6f41570d348) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: share feature ui and implementation"
@@ -19,8 +21,6 @@
 **2024-12-22** — pushed [90d4989](https://github.com/uwaisalqadri/Giffy/commits/90d4989d42a23d91c3138638de3c53935843ed28) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: adjust widgets folder"
 
 **2024-12-22** — pushed [d577d0f](https://github.com/uwaisalqadri/Giffy/commits/d577d0f5287b79b91b90d1753f8be222049625c3) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: remove unnecessary code"
-
-**2024-12-14** — pushed [af26477](https://github.com/uwaisalqadri/Giffy/commits/af26477f5b5ef4afd1dfa6da00c2355020649c76) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: set screen width as the maximum"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
