@@ -2,6 +2,10 @@
 
 ## GitHub Activity
 
+**2025-01-10** — pushed [89cb483](https://github.com/uwaisalqadri/inOS/commits/89cb483c9e5005d11cacf0ab051ef7707d6627e0) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: rename identifier"
+
+**2025-01-10** — pushed [deb9c45](https://github.com/uwaisalqadri/Giffy/commits/deb9c45e77df44af6ab6439966b0034eb5064cdc) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: share implementation for outside apps"
+
 **2024-12-28** — pushed [2701376](https://github.com/uwaisalqadri/Giffy/commits/27013765f8f2e7c268b1dda03017165a0b6d5dc2) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: share implementation for outside apps"
 
 **2024-12-28** — pushed [037e311](https://github.com/uwaisalqadri/Giffy/commits/037e311b8509b6fccacc0139f7e9c740e8c87294) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: share feature ui and implementation"
@@ -17,10 +21,6 @@
 **2024-12-26** — opened PR [#2](https://github.com/uwaisalqadri/Giffy/pull/2) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "Coba aja lah"
 
 **2024-12-26** — pushed [da8b91e](https://github.com/uwaisalqadri/Giffy/commits/da8b91e59fc425c7b13adbfa98ea424f231c8586) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: setup google chat"
-
-**2024-12-22** — pushed [90d4989](https://github.com/uwaisalqadri/Giffy/commits/90d4989d42a23d91c3138638de3c53935843ed28) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: adjust widgets folder"
-
-**2024-12-22** — pushed [d577d0f](https://github.com/uwaisalqadri/Giffy/commits/d577d0f5287b79b91b90d1753f8be222049625c3) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: remove unnecessary code"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
