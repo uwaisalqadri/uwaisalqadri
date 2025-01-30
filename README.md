@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2025-01-29** — pushed [d032cc4](https://github.com/uwaisalqadri/Giffy/commits/d032cc453d7f3ad4700432e7dc2a8f81da8f0027) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: solve share bottomsheet issue"
+
 **2025-01-29** — pushed [fae3581](https://github.com/uwaisalqadri/Giffy/commits/fae3581c6d0eea57789cb6b42c8365e592092639) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: solve share bottomsheet issue"
 
 **2025-01-29** — pushed [65d6cd8](https://github.com/uwaisalqadri/Giffy/commits/65d6cd8993ec65698a452257c9f538f856e5c04f) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: solve share bottomsheet issue"
@@ -19,8 +21,6 @@
 **2025-01-21** — pushed [04930f5](https://github.com/uwaisalqadri/in_os_remote_config/commits/04930f58f561dbe7a98f14e7406ff1d6db34f59b) to [uwaisalqadri/in_os_remote_config](https://github.com/uwaisalqadri/in_os_remote_config): "feat: setup remote config"
 
 **2025-01-21** — created branch `main` on [uwaisalqadri/in_os_remote_config](https://github.com/uwaisalqadri/in_os_remote_config)
-
-**2025-01-21** — created repository on [uwaisalqadri/in_os_remote_config](https://github.com/uwaisalqadri/in_os_remote_config)
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
