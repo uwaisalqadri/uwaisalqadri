@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2025-01-29** — pushed [fae3581](https://github.com/uwaisalqadri/Giffy/commits/fae3581c6d0eea57789cb6b42c8365e592092639) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: solve share bottomsheet issue"
+
 **2025-01-29** — pushed [65d6cd8](https://github.com/uwaisalqadri/Giffy/commits/65d6cd8993ec65698a452257c9f538f856e5c04f) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: solve share bottomsheet issue"
 
 **2025-01-29** — pushed [e446a3d](https://github.com/uwaisalqadri/Giffy/commits/e446a3d9d0014829204b907dbc2f90bcb5a8ffde) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "style: consistent copy green"
@@ -19,8 +21,6 @@
 **2025-01-21** — created branch `main` on [uwaisalqadri/in_os_remote_config](https://github.com/uwaisalqadri/in_os_remote_config)
 
 **2025-01-21** — created repository on [uwaisalqadri/in_os_remote_config](https://github.com/uwaisalqadri/in_os_remote_config)
-
-**2025-01-10** — pushed [deb9c45](https://github.com/uwaisalqadri/Giffy/commits/deb9c45e77df44af6ab6439966b0034eb5064cdc) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: share implementation for outside apps"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
