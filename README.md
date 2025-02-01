@@ -2,6 +2,10 @@
 
 ## GitHub Activity
 
+**2025-02-01** — pushed [82feba9](https://github.com/uwaisalqadri/Giffy/commits/82feba97337382977030d14980c0e4fceefaebc7) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: handle weird unresponsiveness on FavoriteView"
+
+**2025-02-01** — pushed [91ad653](https://github.com/uwaisalqadri/Giffy/commits/91ad653b01b117f8c4d85b4b5a92ded6d7ed8528) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: handle weird unresponsiveness on FavoriteView"
+
 **2025-02-01** — pushed [e3c00a9](https://github.com/uwaisalqadri/Giffy/commits/e3c00a9c2bb2d86ea656446db5fc2925a0b9e7d7) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: update router naming"
 
 **2025-02-01** — pushed [6aa9b20](https://github.com/uwaisalqadri/Giffy/commits/6aa9b207615cb8b9bf454efe08c7c8831aa2e665) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: update router naming"
@@ -17,10 +21,6 @@
 **2025-01-29** — pushed [b6192b4](https://github.com/uwaisalqadri/Giffy/commits/b6192b463b87916879035693720d1e12ab079a55) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "style: consistent copy green"
 
 **2025-01-29** — pushed [d4e17be](https://github.com/uwaisalqadri/Giffy/commits/d4e17bed5c33fe0bd480a9099fe35971e16e6cc2) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: improves everything"
-
-**2025-01-27** — pushed [de24f7a](https://github.com/uwaisalqadri/Giffy/commits/de24f7a4bc727cbbc8ef66841aaee66ae5f7100c) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: make the share implementation worked"
-
-**2025-01-25** — pushed [6f5f53e](https://github.com/uwaisalqadri/in_os_remote_config/commits/6f5f53eb6caca9a018fe0bec4586c6788b946923) to [uwaisalqadri/in_os_remote_config](https://github.com/uwaisalqadri/in_os_remote_config): "chore: update in_os_remote_config.json"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
