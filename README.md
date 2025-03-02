@@ -2,6 +2,18 @@
 
 ## GitHub Activity
 
+**2025-03-02** — pushed [ba77820](https://github.com/uwaisalqadri/inOS/commits/ba778203939bc3eba8f0dd56c107d5cc4f04fac4) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: animate highlight and constraint delay"
+
+**2025-03-02** — pushed [c9b5a73](https://github.com/uwaisalqadri/inOS/commits/c9b5a730c0adda38e850ea278bc6aa1a66626e64) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "style: animated highlight"
+
+**2025-03-02** — pushed [9379ff6](https://github.com/uwaisalqadri/inOS/commits/9379ff6698dbb5f564b0816868176c59e62bc318) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "style: animated highlight"
+
+**2025-03-02** — pushed [bbc6b30](https://github.com/uwaisalqadri/Giffy/commits/bbc6b30313ff3b8eb98866a1cd4da811e8777660) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: update README.md"
+
+**2025-03-02** — pushed [0c20fda](https://github.com/uwaisalqadri/inOS/commits/0c20fda7ed9b694eab2534c2c987b5e56eb71278) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: create README.md"
+
+**2025-03-02** — pushed [d3bdc1f](https://github.com/uwaisalqadri/inOS/commits/d3bdc1f3812e90dd1e93f88b6f887dfa6b24b0fc) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: enhance user experience"
+
 **2025-02-26** — pushed [b975893](https://github.com/uwaisalqadri/inOS/commits/b975893abac17a3aeb081b767b19a745d9bc34dd) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: make the project public, welcome inOS 🎉
 
 style: update icon
@@ -71,18 +83,6 @@ feat: set strategy pattern for assessment base structure, and write tests"
 **2025-02-24** — created branch `feature/paste-gif` on [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy)
 
 **2025-02-24** — pushed [bd43405](https://github.com/uwaisalqadri/Giffy/commits/bd43405a4d8dbb167999a48bb1e434f081462616) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: implement paste feature to search and gif preview"
-
-**2025-02-24** — pushed [bd43405](https://github.com/uwaisalqadri/Giffy/commits/bd43405a4d8dbb167999a48bb1e434f081462616) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: implement paste feature to search and gif preview"
-
-**2025-02-24** — created branch `feature/paste-gif` on [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy)
-
-**2025-02-24** — pushed [f181fdb](https://github.com/uwaisalqadri/Giffy/commits/f181fdb80cdba3d894bf4e6ac714970c5bd244d6) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "fix: bugfix share image extension and gif detail size"
-
-**2025-02-09** — pushed [a07bd3a](https://github.com/uwaisalqadri/Giffy/commits/a07bd3af0eba28d0e6167b6948413e29fa1808a9) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor!: more consistent assets name"
-
-**2025-02-09** — pushed [2483c4f](https://github.com/uwaisalqadri/Giffy/commits/2483c4f1b9bcbb34613687b85bbc5be33851aac4) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: more consistent assets name"
-
-**2025-02-09** — pushed [1b89919](https://github.com/uwaisalqadri/Giffy/commits/1b899194d1ee8e168599dead84a401b514704d9f) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "refactor: more consistent assets name"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
