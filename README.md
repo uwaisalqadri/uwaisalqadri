@@ -2,6 +2,8 @@
 
 ## GitHub Activity
 
+**2025-03-02** — pushed [c83c1e2](https://github.com/uwaisalqadri/inOS/commits/c83c1e29c7ff462ee67513755b89f7f7841be357) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: improve button sensitivity"
+
 **2025-03-02** — pushed [ba77820](https://github.com/uwaisalqadri/inOS/commits/ba778203939bc3eba8f0dd56c107d5cc4f04fac4) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: animate highlight and constraint delay"
 
 **2025-03-02** — pushed [c9b5a73](https://github.com/uwaisalqadri/inOS/commits/c9b5a730c0adda38e850ea278bc6aa1a66626e64) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "style: animated highlight"
@@ -81,8 +83,6 @@ feat: set strategy pattern for assessment base structure, and write tests"
 **2025-02-24** — pushed [3346e75](https://github.com/uwaisalqadri/Giffy/commits/3346e759c42a7671f5eafd7eabda90428f5e20e8) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: update README.md"
 
 **2025-02-24** — created branch `feature/paste-gif` on [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy)
-
-**2025-02-24** — pushed [bd43405](https://github.com/uwaisalqadri/Giffy/commits/bd43405a4d8dbb167999a48bb1e434f081462616) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: implement paste feature to search and gif preview"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
         
