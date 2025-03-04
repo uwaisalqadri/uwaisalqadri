@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2022 Uwais Alqadri
+ * Copyright (C) 2025 Uwais Alqadri
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -15,13 +15,13 @@
  */
 
 plugins {
-  id 'org.jetbrains.kotlin.jvm' version "1.6.10"
-  id 'org.jetbrains.kotlin.kapt' version "1.6.10"
-  id 'com.google.devtools.ksp' version "1.6.10-1.0.2"
+  id 'org.jetbrains.kotlin.jvm' version '2.0.0'
+  id 'org.jetbrains.kotlin.kapt' version '2.0.0'
+  id 'com.google.devtools.ksp' version '2.0.0-1.0.24'
   id 'application'
-  id 'com.diffplug.spotless' version "6.1.0"
-  id 'com.github.ben-manes.versions' version "0.39.0"
-  id 'org.jetbrains.kotlin.plugin.serialization' version "1.6.10"
+  id 'com.diffplug.spotless' version '6.1.0'
+  id 'com.github.ben-manes.versions' version '0.39.0'
+  id 'org.jetbrains.kotlin.plugin.serialization' version '2.0.0'
 }
 
 repositories {
@@ -32,41 +32,39 @@ def compileArgs = ['-Xjsr305=strict', '-progressive', '-Xopt-in=kotlin.Experimen
 
 compileKotlin {
   kotlinOptions {
-    jvmTarget = "11"
+    jvmTarget = '17'
     freeCompilerArgs += compileArgs
   }
 }
 
 compileTestKotlin {
   kotlinOptions {
-    jvmTarget = "11"
+    jvmTarget = '17'
     freeCompilerArgs += compileArgs
   }
 }
 
 java {
   toolchain {
-    languageVersion.set(JavaLanguageVersion.of(11))
+    languageVersion.set(JavaLanguageVersion.of(17))
   }
 }
 
 sourceSets {
   main {
     java {
-      srcDir("build/generated/source/kapt/main")
+      srcDir('build/generated/source/kapt/main')
     }
   }
 }
 
 mainClassName = 'com.uwaisalqadri.UpdateReadmeKt'
 
-// Fat jar configuration to run this as a standalone jar
-// Configuration borrowed from https://stackoverflow.com/a/49284432/3323598
 jar {
   duplicatesStrategy = DuplicatesStrategy.EXCLUDE
   manifest {
     attributes(
-        'Main-Class': 'com.uwaisalqadri.UpdateReadmeKt'
+            'Main-Class': 'com.uwaisalqadri.UpdateReadmeKt'
     )
   }
   from {
@@ -75,12 +73,13 @@ jar {
 }
 
 dependencies {
-  implementation "com.github.ajalt:clikt:2.8.0"
-  implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2"
-  implementation("io.ktor:ktor-client-core:2.0.0")
-  implementation("io.ktor:ktor-serialization-kotlinx-xml:2.0.0")
-  implementation("io.ktor:ktor-serialization-kotlinx-json:2.0.0")
-  implementation("io.ktor:ktor-client-content-negotiation:2.0.0")
-  implementation("io.ktor:ktor-client-okhttp:2.0.0")
-  implementation("io.ktor:ktor-client-logging:2.0.0")
+  implementation("com.github.ajalt.clikt:clikt:5.0.3")
+  implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.1")
+  implementation ("io.ktor:ktor-client-core:2.0.0")
+  implementation ("io.ktor:ktor-serialization-kotlinx-xml:2.0.0")
+  implementation ("io.ktor:ktor-serialization-kotlinx-json:2.0.0")
+  implementation ("com.prof18.rssparser:rssparser:6.0.10")
+  implementation ("io.ktor:ktor-client-content-negotiation:2.0.0")
+  implementation ("io.ktor:ktor-client-okhttp:2.0.0")
+  implementation ("io.ktor:ktor-client-logging:2.0.0")
 }
