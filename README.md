@@ -36,4 +36,4 @@
 </tr>
 </table>
         
-<sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweers's auto-updating profile README with Kotlin Implementation.</a></sub>
+<sub><a href="https://uwais.framer.website/">Read more about me</a></sub>

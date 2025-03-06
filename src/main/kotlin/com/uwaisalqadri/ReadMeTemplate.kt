@@ -2,7 +2,7 @@ package com.uwaisalqadri
 
 fun createReadMe(
     githubActivities: List<ActivityItem>,
-    mediumArticles: List<ActivityItem>,
+    mediumArticles: List<ActivityItem>
 ): String {
     return """
 <table>
@@ -25,6 +25,6 @@ ${mediumArticles.joinToString("\n") { "- $it" }}
 </tr>
 </table>
         
-<sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweers's auto-updating profile README with Kotlin Implementation.</a></sub>
+<sub>This is an automation written in Kotlin by <a href="https://uwais.framer.website/">Uwais Alqadri</a></sub>
     """.trimIndent()
 }
