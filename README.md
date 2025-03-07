@@ -4,6 +4,8 @@
         
 ## GitHub Activity
            
+- **2025-03-06** — pushed [26e52c3](https://github.com/uwaisalqadri/uwaisalqadri/commits/26e52c3ea216345f50833d4af349604a219eb716) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: improve ui"
+- **2025-03-06** — pushed [592f493](https://github.com/uwaisalqadri/uwaisalqadri/commits/592f49333ca5fb3f5eeb3ef8ec1c42d0a9bc4787) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: implement medium articles list"
 - **2025-03-04** — pushed [892201f](https://github.com/uwaisalqadri/uwaisalqadri/commits/892201f88bddff27a3f543e93d98fd9ce5b309f8) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: implement rss parser"
 - **2025-03-04** — pushed [c065a89](https://github.com/uwaisalqadri/inOS/commits/c065a89aca77057ea4bc764060af25d46d9b6eea) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: create README.md"
 - **2025-03-04** — pushed [237c3eb](https://github.com/uwaisalqadri/Giffy/commits/237c3ebabfde7563bd0069532d717a11609b730a) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: update README.md"
@@ -12,8 +14,6 @@
 - **2025-03-03** — pushed [ea92585](https://github.com/uwaisalqadri/inOS/commits/ea925857edc5f7b0a23db6e8792db899cb10d428) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: create README.md"
 - **2025-03-03** — pushed [6e50cae](https://github.com/uwaisalqadri/inOS/commits/6e50caecbf02774a42cb9b60f429b9c57706c00c) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: update README.md"
 - **2025-03-03** — pushed [42359d3](https://github.com/uwaisalqadri/inOS/commits/42359d36b06caa193908b10655d4ee1720362945) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: create README.md"
-- **2025-03-03** — pushed [9c15d9d](https://github.com/uwaisalqadri/inOS/commits/9c15d9da518a039822d4f9fd4d9af39c8a1737bd) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: update README.md"
-- **2025-03-03** — pushed [9b56c54](https://github.com/uwaisalqadri/inOS/commits/9b56c5499171f8e756fa97d912e9126db75ef620) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: update README.md"
             
 </td>
         
