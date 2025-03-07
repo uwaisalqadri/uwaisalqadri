@@ -133,7 +133,7 @@ data class ActivityItem(
         return if (isTimestamp) {
             val timestamp = Instant.parse(head)
             "**${timestamp.atZone(ZoneId.of("America/New_York")).toLocalDate()}** — $text"
-        } else "**$head** [$text]"
+        } else "**$head** - $text"
     }
 }
 
