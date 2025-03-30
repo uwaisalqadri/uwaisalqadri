@@ -4,6 +4,8 @@
         
 ## GitHub Activity
            
+- **2025-03-30** — pushed [26f6be7](https://github.com/uwaisalqadri/inOS/commits/26f6be7f49b77821468888c1d77922c76c2f4280) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: update navigation flow"
+- **2025-03-30** — pushed [36d5406](https://github.com/uwaisalqadri/inOS/commits/36d5406b17f1b6dab934354abc0ef426b5aadc27) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: live activity 🦍"
 - **2025-03-30** — pushed [0f4d995](https://github.com/uwaisalqadri/inOS/commits/0f4d995402305bab10e57df9f74e8151db76dda0) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: implement control widget to open app, and initiate live activity"
 - **2025-03-30** — pushed [4b8c014](https://github.com/uwaisalqadri/inOS/commits/4b8c0145a07005db89b60705e3b72eede1664c07) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: implement control widget to open app, and initiate live activity"
 - **2025-03-29** — pushed [2454388](https://github.com/uwaisalqadri/inOS/commits/245438815881e87f6d3a7f671b921a858451faf3) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "style: improve ui ux"
@@ -12,8 +14,6 @@
 - **2025-03-26** — pushed [0fb5686](https://github.com/uwaisalqadri/inOS/commits/0fb568612ad816c40611680d071391d5b8cc2cb6) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: disable bounce"
 - **2025-03-07** — pushed [96c0b1d](https://github.com/uwaisalqadri/uwaisalqadri/commits/96c0b1da38ba1896444d40c5e01a560e8f12c762) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: update UI"
 - **2025-03-06** — pushed [26e52c3](https://github.com/uwaisalqadri/uwaisalqadri/commits/26e52c3ea216345f50833d4af349604a219eb716) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: improve ui"
-- **2025-03-06** — pushed [592f493](https://github.com/uwaisalqadri/uwaisalqadri/commits/592f49333ca5fb3f5eeb3ef8ec1c42d0a9bc4787) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: implement medium articles list"
-- **2025-03-04** — pushed [892201f](https://github.com/uwaisalqadri/uwaisalqadri/commits/892201f88bddff27a3f543e93d98fd9ce5b309f8) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: implement rss parser"
             
 </td>
         
