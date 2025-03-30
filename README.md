@@ -4,6 +4,8 @@
         
 ## GitHub Activity
            
+- **2025-03-30** — pushed [0f4d995](https://github.com/uwaisalqadri/inOS/commits/0f4d995402305bab10e57df9f74e8151db76dda0) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: implement control widget to open app, and initiate live activity"
+- **2025-03-30** — pushed [4b8c014](https://github.com/uwaisalqadri/inOS/commits/4b8c0145a07005db89b60705e3b72eede1664c07) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: implement control widget to open app, and initiate live activity"
 - **2025-03-29** — pushed [2454388](https://github.com/uwaisalqadri/inOS/commits/245438815881e87f6d3a7f671b921a858451faf3) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "style: improve ui ux"
 - **2025-03-26** — pushed [4e05067](https://github.com/uwaisalqadri/Giffy/commits/4e05067cd5523ca4da6fe81e6233bbfc718d468c) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: show live activity"
 - **2025-03-26** — pushed [7c3f1b3](https://github.com/uwaisalqadri/inOS/commits/7c3f1b333a5831d851a4696d463adc5966969b34) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: disable bounce, shorten deadpixel countdown"
@@ -12,8 +14,6 @@
 - **2025-03-06** — pushed [26e52c3](https://github.com/uwaisalqadri/uwaisalqadri/commits/26e52c3ea216345f50833d4af349604a219eb716) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: improve ui"
 - **2025-03-06** — pushed [592f493](https://github.com/uwaisalqadri/uwaisalqadri/commits/592f49333ca5fb3f5eeb3ef8ec1c42d0a9bc4787) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: implement medium articles list"
 - **2025-03-04** — pushed [892201f](https://github.com/uwaisalqadri/uwaisalqadri/commits/892201f88bddff27a3f543e93d98fd9ce5b309f8) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: implement rss parser"
-- **2025-03-04** — pushed [c065a89](https://github.com/uwaisalqadri/inOS/commits/c065a89aca77057ea4bc764060af25d46d9b6eea) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: create README.md"
-- **2025-03-04** — pushed [237c3eb](https://github.com/uwaisalqadri/Giffy/commits/237c3ebabfde7563bd0069532d717a11609b730a) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "chore: update README.md"
             
 </td>
         
