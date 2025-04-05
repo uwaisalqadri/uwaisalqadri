@@ -13,7 +13,6 @@
 - **2025-03-26** — pushed [7c3f1b3](https://github.com/uwaisalqadri/inOS/commits/7c3f1b333a5831d851a4696d463adc5966969b34) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: disable bounce, shorten deadpixel countdown"
 - **2025-03-26** — pushed [0fb5686](https://github.com/uwaisalqadri/inOS/commits/0fb568612ad816c40611680d071391d5b8cc2cb6) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: disable bounce"
 - **2025-03-07** — pushed [96c0b1d](https://github.com/uwaisalqadri/uwaisalqadri/commits/96c0b1da38ba1896444d40c5e01a560e8f12c762) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: update UI"
-- **2025-03-06** — pushed [26e52c3](https://github.com/uwaisalqadri/uwaisalqadri/commits/26e52c3ea216345f50833d4af349604a219eb716) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: improve ui"
             
 </td>
         
