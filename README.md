@@ -12,7 +12,6 @@
 - **2025-03-26** — pushed [4e05067](https://github.com/uwaisalqadri/Giffy/commits/4e05067cd5523ca4da6fe81e6233bbfc718d468c) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: show live activity"
 - **2025-03-26** — pushed [7c3f1b3](https://github.com/uwaisalqadri/inOS/commits/7c3f1b333a5831d851a4696d463adc5966969b34) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: disable bounce, shorten deadpixel countdown"
 - **2025-03-26** — pushed [0fb5686](https://github.com/uwaisalqadri/inOS/commits/0fb568612ad816c40611680d071391d5b8cc2cb6) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: disable bounce"
-- **2025-03-07** — pushed [96c0b1d](https://github.com/uwaisalqadri/uwaisalqadri/commits/96c0b1da38ba1896444d40c5e01a560e8f12c762) to [uwaisalqadri/uwaisalqadri](https://github.com/uwaisalqadri/uwaisalqadri): "feat: update UI"
             
 </td>
         
