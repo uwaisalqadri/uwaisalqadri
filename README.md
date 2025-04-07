@@ -4,6 +4,7 @@
         
 ## GitHub Activity
            
+- **2025-04-06** — pushed [bf6a3d7](https://github.com/uwaisalqadri/inOS/commits/bf6a3d773355d9f7632841a4d90dfdf2737c96df) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: improve UI/UX"
 - **2025-03-30** — pushed [26f6be7](https://github.com/uwaisalqadri/inOS/commits/26f6be7f49b77821468888c1d77922c76c2f4280) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: update navigation flow"
 - **2025-03-30** — pushed [36d5406](https://github.com/uwaisalqadri/inOS/commits/36d5406b17f1b6dab934354abc0ef426b5aadc27) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: live activity 🦍"
 - **2025-03-30** — pushed [0f4d995](https://github.com/uwaisalqadri/inOS/commits/0f4d995402305bab10e57df9f74e8151db76dda0) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: implement control widget to open app, and initiate live activity"
