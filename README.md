@@ -11,9 +11,6 @@
 - **2025-03-30** — pushed [0f4d995](https://github.com/uwaisalqadri/inOS/commits/0f4d995402305bab10e57df9f74e8151db76dda0) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: implement control widget to open app, and initiate live activity"
 - **2025-03-30** — pushed [4b8c014](https://github.com/uwaisalqadri/inOS/commits/4b8c0145a07005db89b60705e3b72eede1664c07) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: implement control widget to open app, and initiate live activity"
 - **2025-03-29** — pushed [2454388](https://github.com/uwaisalqadri/inOS/commits/245438815881e87f6d3a7f671b921a858451faf3) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "style: improve ui ux"
-- **2025-03-26** — pushed [4e05067](https://github.com/uwaisalqadri/Giffy/commits/4e05067cd5523ca4da6fe81e6233bbfc718d468c) to [uwaisalqadri/Giffy](https://github.com/uwaisalqadri/Giffy): "feat: show live activity"
-- **2025-03-26** — pushed [7c3f1b3](https://github.com/uwaisalqadri/inOS/commits/7c3f1b333a5831d851a4696d463adc5966969b34) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: disable bounce, shorten deadpixel countdown"
-- **2025-03-26** — pushed [0fb5686](https://github.com/uwaisalqadri/inOS/commits/0fb568612ad816c40611680d071391d5b8cc2cb6) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: disable bounce"
             
 </td>
         
