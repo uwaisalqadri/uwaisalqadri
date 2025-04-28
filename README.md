@@ -10,7 +10,6 @@
 - **2025-03-30** — pushed [36d5406](https://github.com/uwaisalqadri/inOS/commits/36d5406b17f1b6dab934354abc0ef426b5aadc27) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: live activity 🦍"
 - **2025-03-30** — pushed [0f4d995](https://github.com/uwaisalqadri/inOS/commits/0f4d995402305bab10e57df9f74e8151db76dda0) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: implement control widget to open app, and initiate live activity"
 - **2025-03-30** — pushed [4b8c014](https://github.com/uwaisalqadri/inOS/commits/4b8c0145a07005db89b60705e3b72eede1664c07) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: implement control widget to open app, and initiate live activity"
-- **2025-03-29** — pushed [2454388](https://github.com/uwaisalqadri/inOS/commits/245438815881e87f6d3a7f671b921a858451faf3) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "style: improve ui ux"
             
 </td>
         
