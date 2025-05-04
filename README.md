@@ -4,6 +4,12 @@
         
 ## GitHub Activity
            
+- **2025-05-04** — pushed [6f02545](https://github.com/uwaisalqadri/inOS/commits/6f025453e535a3b333e5ece980c65f50ac271501) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor: remove unused properties"
+- **2025-05-04** — pushed [f570a5c](https://github.com/uwaisalqadri/inOS/commits/f570a5c164835c5ff102b3e32d4801e10e3e22f2) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor: remove unused properties"
+- **2025-05-04** — pushed [bab6878](https://github.com/uwaisalqadri/inOS/commits/bab68780c27af46ec038e11c15859ebed4a75308) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: handle settings navigation properly for different iOS"
+- **2025-05-04** — pushed [133c0b0](https://github.com/uwaisalqadri/inOS/commits/133c0b0b102ddab59d6c88658ca9d3471cb657da) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: handle settings navigation properly for different iOS"
+- **2025-05-04** — pushed [263381a](https://github.com/uwaisalqadri/inOS/commits/263381ad3362383cb479f87cdd7c280e1d0ba73d) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: change name from Functionality to Assessment for consistency"
+- **2025-05-04** — pushed [411969c](https://github.com/uwaisalqadri/inOS/commits/411969cf921ca3b22d5440550bc23c110c75fdba) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: implement type-driven design"
 - **2025-04-19** — pushed [d80231b](https://github.com/uwaisalqadri/inOS/commits/d80231b779745fb7d633908ab244f7979cf600ed) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: strict os support and SplitView 🎉"
 - **2025-04-06** — pushed [bf6a3d7](https://github.com/uwaisalqadri/inOS/commits/bf6a3d773355d9f7632841a4d90dfdf2737c96df) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: improve UI/UX"
             
