@@ -4,6 +4,7 @@
         
 ## GitHub Activity
            
+- **2025-05-04** — pushed [4555566](https://github.com/uwaisalqadri/inOS/commits/45555660ff566fc107aacd9f8787c98e30d6e6b5) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: change name from benchmark to metric"
 - **2025-05-04** — pushed [8778cd7](https://github.com/uwaisalqadri/inOS/commits/8778cd769c7ca67fb602aa5ae5cc1cef4aa78b5c) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: change name from benchmark to metric"
 - **2025-05-04** — pushed [4185ae9](https://github.com/uwaisalqadri/inOS/commits/4185ae962c712384fbfd9c2b33ef58afe268c6d7) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: change name from benchmark to metric"
 - **2025-05-04** — pushed [6f02545](https://github.com/uwaisalqadri/inOS/commits/6f025453e535a3b333e5ece980c65f50ac271501) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor: remove unused properties"
@@ -13,7 +14,6 @@
 - **2025-05-04** — pushed [263381a](https://github.com/uwaisalqadri/inOS/commits/263381ad3362383cb479f87cdd7c280e1d0ba73d) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: change name from Functionality to Assessment for consistency"
 - **2025-05-04** — pushed [411969c](https://github.com/uwaisalqadri/inOS/commits/411969cf921ca3b22d5440550bc23c110c75fdba) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: implement type-driven design"
 - **2025-04-19** — pushed [d80231b](https://github.com/uwaisalqadri/inOS/commits/d80231b779745fb7d633908ab244f7979cf600ed) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: strict os support and SplitView 🎉"
-- **2025-04-06** — pushed [bf6a3d7](https://github.com/uwaisalqadri/inOS/commits/bf6a3d773355d9f7632841a4d90dfdf2737c96df) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "feat: improve UI/UX"
             
 </td>
         
