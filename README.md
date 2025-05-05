@@ -4,6 +4,8 @@
         
 ## GitHub Activity
            
+- **2025-05-04** — pushed [8778cd7](https://github.com/uwaisalqadri/inOS/commits/8778cd769c7ca67fb602aa5ae5cc1cef4aa78b5c) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: change name from benchmark to metric"
+- **2025-05-04** — pushed [4185ae9](https://github.com/uwaisalqadri/inOS/commits/4185ae962c712384fbfd9c2b33ef58afe268c6d7) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: change name from benchmark to metric"
 - **2025-05-04** — pushed [6f02545](https://github.com/uwaisalqadri/inOS/commits/6f025453e535a3b333e5ece980c65f50ac271501) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor: remove unused properties"
 - **2025-05-04** — pushed [f570a5c](https://github.com/uwaisalqadri/inOS/commits/f570a5c164835c5ff102b3e32d4801e10e3e22f2) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor: remove unused properties"
 - **2025-05-04** — pushed [bab6878](https://github.com/uwaisalqadri/inOS/commits/bab68780c27af46ec038e11c15859ebed4a75308) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: handle settings navigation properly for different iOS"
