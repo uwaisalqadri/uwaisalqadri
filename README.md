@@ -4,6 +4,8 @@
         
 ## GitHub Activity
            
+- **2025-05-19** — pushed [ce24f01](https://github.com/uwaisalqadri/inOS/commits/ce24f01f55012876a2c3777b7a24b37e36324cf9) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: update README.md"
+- **2025-05-19** — pushed [4153055](https://github.com/uwaisalqadri/inOS/commits/41530559b38b1c70580a61f6e6fa3143c003bfb9) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: update README.md"
 - **2025-05-06** — pushed [a40c161](https://github.com/uwaisalqadri/inOS/commits/a40c1615526b7d3eda38762a5d59e350f3202a38) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "chore: update README.md"
 - **2025-05-04** — pushed [4555566](https://github.com/uwaisalqadri/inOS/commits/45555660ff566fc107aacd9f8787c98e30d6e6b5) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: change name from benchmark to metric"
 - **2025-05-04** — pushed [8778cd7](https://github.com/uwaisalqadri/inOS/commits/8778cd769c7ca67fb602aa5ae5cc1cef4aa78b5c) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: change name from benchmark to metric"
@@ -12,8 +14,6 @@
 - **2025-05-04** — pushed [f570a5c](https://github.com/uwaisalqadri/inOS/commits/f570a5c164835c5ff102b3e32d4801e10e3e22f2) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor: remove unused properties"
 - **2025-05-04** — pushed [bab6878](https://github.com/uwaisalqadri/inOS/commits/bab68780c27af46ec038e11c15859ebed4a75308) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: handle settings navigation properly for different iOS"
 - **2025-05-04** — pushed [133c0b0](https://github.com/uwaisalqadri/inOS/commits/133c0b0b102ddab59d6c88658ca9d3471cb657da) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "fix: handle settings navigation properly for different iOS"
-- **2025-05-04** — pushed [263381a](https://github.com/uwaisalqadri/inOS/commits/263381ad3362383cb479f87cdd7c280e1d0ba73d) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: change name from Functionality to Assessment for consistency"
-- **2025-05-04** — pushed [411969c](https://github.com/uwaisalqadri/inOS/commits/411969cf921ca3b22d5440550bc23c110c75fdba) to [uwaisalqadri/inOS](https://github.com/uwaisalqadri/inOS): "refactor!: implement type-driven design"
             
 </td>
         
