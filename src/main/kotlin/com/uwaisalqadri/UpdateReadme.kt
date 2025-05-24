@@ -7,7 +7,10 @@ import com.github.ajalt.clikt.parameters.options.required
 import com.github.ajalt.clikt.parameters.types.file
 import com.prof18.rssparser.RssParser
 import io.ktor.client.HttpClient
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.async
 import kotlinx.coroutines.runBlocking
+import kotlinx.coroutines.withContext
 import java.time.Instant
 import java.time.ZoneId
 import kotlin.system.exitProcess
@@ -19,28 +22,29 @@ class UpdateReadmeCommand: CliktCommand() {
         .required()
 
     override fun run() {
-        val json = createJson()
-        val ktorHttpClient = createHttpClient(json)
-        val rssParser = createRssParser()
-
-        val githubActivities = fetchGithubActivity(ktorHttpClient)
-        val mediumArticles = fetchMediumArticle(rssParser)
-
-        val newReadMe = createReadMe(githubActivities, mediumArticles)
-        outputFile.writeText(newReadMe)
-
+        outputFile.writeText(generateReadme())
+        generateReadme()
         // TODO why do I need to do this
         exitProcess(0)
     }
 }
 
-private fun fetchMediumArticle(
+private fun generateReadme(): String {
+    val json = createJson()
+    val ktorHttpClient = createHttpClient(json)
+    val rssParser = createRssParser()
+    return runBlocking(Dispatchers.Default) {
+        val githubActivities = async { fetchGithubActivity(ktorHttpClient) }
+        val mediumArticles = async { fetchMediumArticle(rssParser) }
+        createReadMe(githubActivities.await(), mediumArticles.await())
+    }
+}
+
+private suspend fun fetchMediumArticle(
     parser: RssParser
 ): List<ActivityItem> {
-    val mediumRssApi = MediumRssApi(parser)
-    val article = runBlocking {
-        mediumRssApi.fetchArticles(atUsername = "@uwaisalqadri")
-    }
+    val mediumRssApi = MediumRssApi.create(parser)
+    val article = mediumRssApi.fetchArticles(atUsername = "@uwaisalqadri")
     return article.map {
             ActivityItem(
                 text = "[Read Article](${it.link ?: "-"})",
@@ -50,13 +54,11 @@ private fun fetchMediumArticle(
         }
 }
 
-private fun fetchGithubActivity(
+private suspend fun fetchGithubActivity(
     client: HttpClient
 ): List<ActivityItem> {
-    val githubApi = GithubApi(client)
-    val activity = runBlocking {
-        githubApi.getUserActivity(login = "uwaisalqadri")
-    }
+    val githubApi = GithubApi.create(client)
+    val activity = githubApi.getUserActivity(login = "uwaisalqadri")
     return activity
         .filter { it.public }
         .mapNotNull { event ->
