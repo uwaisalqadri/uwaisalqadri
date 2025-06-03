@@ -4,7 +4,7 @@
         
 ## GitHub Activity
            
-- **2025-05-22** — merged PR [#5](https://github.com/uwaisalqadri/MangaKu/pull/5) to [uwaisalqadri/MangaKu](https://github.com/uwaisalqadri/MangaKu): "refactor: add koin inject utilities"
+
             
 </td>
         
