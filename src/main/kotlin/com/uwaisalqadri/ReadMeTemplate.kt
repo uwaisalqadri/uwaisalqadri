@@ -1,8 +1,8 @@
 package com.uwaisalqadri
 
 fun createReadMe(
-    githubActivities: List<ActivityItem>,
-    mediumArticles: List<ActivityItem>
+    githubActivities: List<ReadMeUpdater.ActivityItem>,
+    mediumArticles: List<ReadMeUpdater.ActivityItem>
 ): String {
     return """
 <table>
