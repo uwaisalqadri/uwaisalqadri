@@ -4,6 +4,7 @@
         
 ## GitHub Activity
            
+- **2025-07-27** — watching [MengTo/Spring](https://github.com/MengTo/Spring)
 - **2025-07-23** — watching [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight)
 - **2025-07-13** — watching [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy)
 - **2025-07-07** — watching [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel)
