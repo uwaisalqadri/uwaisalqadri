@@ -12,7 +12,6 @@
 - **2025-07-03** — watching [shadmanadman/kflite](https://github.com/shadmanadman/kflite)
 - **2025-07-03** — watching [the-best-is-best/KDownloadFiles](https://github.com/the-best-is-best/KDownloadFiles)
 - **2025-07-01** — watching [rryam/FoundryKit](https://github.com/rryam/FoundryKit)
-- **2025-06-28** — watching [w3slley/bookcover-api](https://github.com/w3slley/bookcover-api)
             
 </td>
         
