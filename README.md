@@ -4,6 +4,7 @@
         
 ## GitHub Activity
            
+- **2025-08-01** — watching [9001/copyparty](https://github.com/9001/copyparty)
 - **2025-07-27** — watching [nektos/act](https://github.com/nektos/act)
 - **2025-07-27** — watching [MengTo/Spring](https://github.com/MengTo/Spring)
 - **2025-07-23** — watching [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight)
