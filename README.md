@@ -4,13 +4,12 @@
         
 ## GitHub Activity
            
+- **2025-08-08** — deleted tag `1.0.1` on [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist)
 - **2025-08-07** — merged PR [#2](https://github.com/uwaisalqadri/Gist/pull/2) to [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist): "Update NSArchive implementation to retain data and UI/UX Update"
 - **2025-08-07** — opened PR [#2](https://github.com/uwaisalqadri/Gist/pull/2) to [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist): "Update NSArchive implementation to retain data and UI/UX Update"
 - **2025-08-06** — created branch `feature/import-from-md` on [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist)
 - **2025-08-03** — created branch `main` on [uwaisalqadri/testing](https://github.com/uwaisalqadri/testing)
 - **2025-08-03** — created repository on [uwaisalqadri/testing](https://github.com/uwaisalqadri/testing)
-- **2025-08-01** — watching [9001/copyparty](https://github.com/9001/copyparty)
-- **2025-07-27** — watching [nektos/act](https://github.com/nektos/act)
             
 </td>
         
