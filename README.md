@@ -10,8 +10,6 @@
 - **2025-08-07** — merged PR [#2](https://github.com/uwaisalqadri/Gist/pull/2) to [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist): "Update NSArchive implementation to retain data and UI/UX Update"
 - **2025-08-07** — opened PR [#2](https://github.com/uwaisalqadri/Gist/pull/2) to [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist): "Update NSArchive implementation to retain data and UI/UX Update"
 - **2025-08-06** — created branch `feature/import-from-md` on [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist)
-- **2025-08-03** — created branch `main` on [uwaisalqadri/testing](https://github.com/uwaisalqadri/testing)
-- **2025-08-03** — created repository on [uwaisalqadri/testing](https://github.com/uwaisalqadri/testing)
             
 </td>
         
