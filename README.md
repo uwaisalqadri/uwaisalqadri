@@ -7,7 +7,6 @@
 - **2025-08-18** — watching [DroidKaigi/conference-app-2025](https://github.com/DroidKaigi/conference-app-2025)
 - **2025-08-12** — watching [raysan5/raylib](https://github.com/raysan5/raylib)
 - **2025-08-08** — deleted tag `1.0.1` on [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist)
-- **2025-08-07** — merged PR [#2](https://github.com/uwaisalqadri/Gist/pull/2) to [uwaisalqadri/Gist](https://github.com/uwaisalqadri/Gist): "Update NSArchive implementation to retain data and UI/UX Update"
             
 </td>
         
