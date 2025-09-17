@@ -4,7 +4,8 @@
         
 ## GitHub Activity
            
-- **2025-09-14** — watching [0xatrilla/LiquidSky](https://github.com/0xatrilla/LiquidSky)
+- **2025-09-17** — watching [JideGuru/FlutterSocialAppUIKit](https://github.com/JideGuru/FlutterSocialAppUIKit)
+- **2025-09-16** — watching [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)
 - **2025-09-13** — watching [apple/container](https://github.com/apple/container)
 - **2025-09-11** — watching [sham-h93/EyeCare](https://github.com/sham-h93/EyeCare)
 - **2025-09-11** — watching [attentiveness/reading](https://github.com/attentiveness/reading)
