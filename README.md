@@ -11,7 +11,6 @@
 - **2025-09-11** — watching [attentiveness/reading](https://github.com/attentiveness/reading)
 - **2025-09-06** — watching [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor)
 - **2025-09-06** — watching [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker)
-- **2025-08-18** — watching [DroidKaigi/conference-app-2025](https://github.com/DroidKaigi/conference-app-2025)
             
 </td>
         
