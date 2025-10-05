@@ -4,6 +4,7 @@
         
 ## GitHub Activity
            
+- **2025-10-04** — watching [nsh07/WikiReader](https://github.com/nsh07/WikiReader)
 - **2025-10-01** — watching [CharlieTap/chasm](https://github.com/CharlieTap/chasm)
 - **2025-09-28** — watching [n8n-io/n8n](https://github.com/n8n-io/n8n)
 - **2025-09-28** — watching [n8n-io/n8n](https://github.com/n8n-io/n8n)
@@ -13,7 +14,6 @@
 - **2025-09-16** — watching [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)
 - **2025-09-13** — watching [apple/container](https://github.com/apple/container)
 - **2025-09-11** — watching [sham-h93/EyeCare](https://github.com/sham-h93/EyeCare)
-- **2025-09-11** — watching [attentiveness/reading](https://github.com/attentiveness/reading)
             
 </td>
         
