@@ -21,6 +21,7 @@
         
 ## Medium Articles
             
+- **Apple Platforms Runs on macOS DNA** - [Read Article](https://medium.com/@uwaisalqadri/apple-platforms-runs-on-macos-dna-ee9836a42595?source=rss-e28d558666f9------2)
 - **Kotlin to Swift Part 2: Configuration** - [Read Article](https://medium.com/@uwaisalqadri/kotlin-to-swift-part-2-configuration-9fe83f473516?source=rss-e28d558666f9------2)
 - **Kanye West’s “Hey Mama” Feels Personal to Me** - [Read Article](https://medium.com/@uwaisalqadri/kanye-wests-hey-mama-feels-personal-to-me-9f49400e2814?source=rss-e28d558666f9------2)
 - **Kotlin to Swift Part 1: Interoperability** - [Read Article](https://medium.com/@uwaisalqadri/kotlin-to-swift-part-1-interoperability-12cebe98bf52?source=rss-e28d558666f9------2)
@@ -30,7 +31,6 @@
 - **Maintaining Syntactic Sugar for Optional in Swift** - [Read Article](https://medium.com/@uwaisalqadri/maintaining-syntactic-sugar-for-optional-in-swift-dfb7f9019fba?source=rss-e28d558666f9------2)
 - **Integrating SwiftUI and UIKit Simplified** - [Read Article](https://medium.com/@uwaisalqadri/seamlessly-bridging-swiftui-and-uikit-a-practical-approach-f7cb8d2f6f11?source=rss-e28d558666f9------2)
 - **Automate Firebase Distribution without CI/CD Pipeline** - [Read Article](https://medium.com/@uwaisalqadri/automate-firebase-distribution-89cb261fd860?source=rss-e28d558666f9------2)
-- **SwiftUI View, UIKit Navigation** - [Read Article](https://medium.com/@uwaisalqadri/swiftui-view-uikit-navigation-74aa22fc0e0?source=rss-e28d558666f9------2)
             
 </td>
 </tr>
