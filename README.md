@@ -12,7 +12,6 @@
 - **2025-09-28** — watching [n8n-io/n8n](https://github.com/n8n-io/n8n)
 - **2025-09-25** — watching [fluttergems/awesome-open-source-flutter-apps](https://github.com/fluttergems/awesome-open-source-flutter-apps)
 - **2025-09-22** — watching [termux/termux-app](https://github.com/termux/termux-app)
-- **2025-09-18** — watching [TheChance101/AAY-chart](https://github.com/TheChance101/AAY-chart)
             
 </td>
         
