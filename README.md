@@ -11,7 +11,6 @@
 - **2025-10-01** — watching [CharlieTap/chasm](https://github.com/CharlieTap/chasm)
 - **2025-09-28** — watching [n8n-io/n8n](https://github.com/n8n-io/n8n)
 - **2025-09-25** — watching [fluttergems/awesome-open-source-flutter-apps](https://github.com/fluttergems/awesome-open-source-flutter-apps)
-- **2025-09-22** — watching [termux/termux-app](https://github.com/termux/termux-app)
             
 </td>
         
