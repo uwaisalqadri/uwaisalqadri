@@ -9,7 +9,6 @@
 - **2025-10-17** — watching [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 - **2025-10-04** — watching [nsh07/WikiReader](https://github.com/nsh07/WikiReader)
 - **2025-10-01** — watching [CharlieTap/chasm](https://github.com/CharlieTap/chasm)
-- **2025-09-28** — watching [n8n-io/n8n](https://github.com/n8n-io/n8n)
             
 </td>
         
