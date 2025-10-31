@@ -4,6 +4,9 @@
         
 ## GitHub Activity
            
+- **2025-10-31** — watching [tuist/tuist](https://github.com/tuist/tuist)
+- **2025-10-31** — watching [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)
+- **2025-10-31** — watching [kieranb662/Sliders-SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI)
 - **2025-10-30** — created branch `main` on [uwaisalqadri/WriteSwiftLikeApple](https://github.com/uwaisalqadri/WriteSwiftLikeApple)
 - **2025-10-17** — watching [openai/codex](https://github.com/openai/codex)
 - **2025-10-17** — watching [CharlieTap/synk](https://github.com/CharlieTap/synk)
