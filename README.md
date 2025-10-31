@@ -12,7 +12,6 @@
 - **2025-10-17** — watching [CharlieTap/synk](https://github.com/CharlieTap/synk)
 - **2025-10-17** — watching [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 - **2025-10-04** — watching [nsh07/WikiReader](https://github.com/nsh07/WikiReader)
-- **2025-10-01** — watching [CharlieTap/chasm](https://github.com/CharlieTap/chasm)
             
 </td>
         
