@@ -4,6 +4,7 @@
         
 ## GitHub Activity
            
+- **2025-11-23** — watching [tyrchen/excaliapp](https://github.com/tyrchen/excaliapp)
 - **2025-11-04** — watching [getyourguide/spmgraph](https://github.com/getyourguide/spmgraph)
 - **2025-10-31** — watching [tuist/tuist](https://github.com/tuist/tuist)
 - **2025-10-31** — watching [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)
