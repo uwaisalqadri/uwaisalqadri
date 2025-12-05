@@ -5,7 +5,6 @@
 ## GitHub Activity
            
 - **2025-11-23** — watching [tyrchen/excaliapp](https://github.com/tyrchen/excaliapp)
-- **2025-11-04** — watching [getyourguide/spmgraph](https://github.com/getyourguide/spmgraph)
             
 </td>
         
