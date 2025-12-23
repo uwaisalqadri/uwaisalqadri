@@ -4,9 +4,7 @@
         
 ## GitHub Activity
            
-- **2025-12-19** — watching [tw93/Mole](https://github.com/tw93/Mole)
-- **2025-12-19** — watching [WeTransfer/Mocker](https://github.com/WeTransfer/Mocker)
-- **2025-11-23** — watching [tyrchen/excaliapp](https://github.com/tyrchen/excaliapp)
+- **2025-12-23T03:50:01.197300923** - Could not load GitHub activity. Please check back later.
             
 </td>
         
