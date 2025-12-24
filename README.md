@@ -4,6 +4,7 @@
         
 ## GitHub Activity
            
+- **2025-12-24** — watching [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
 - **2025-12-19** — watching [tw93/Mole](https://github.com/tw93/Mole)
 - **2025-12-19** — watching [WeTransfer/Mocker](https://github.com/WeTransfer/Mocker)
             
