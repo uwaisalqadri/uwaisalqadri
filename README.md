@@ -8,8 +8,6 @@
 - **2026-01-04** — watching [usebruno/bruno](https://github.com/usebruno/bruno)
 - **2025-12-29** — watching [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
 - **2025-12-24** — watching [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
-- **2025-12-19** — watching [tw93/Mole](https://github.com/tw93/Mole)
-- **2025-12-19** — watching [WeTransfer/Mocker](https://github.com/WeTransfer/Mocker)
             
 </td>
         
