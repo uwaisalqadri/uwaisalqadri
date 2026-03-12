@@ -5,7 +5,6 @@
 ## GitHub Activity
            
 - **2026-03-09** — watching [pointfreeco/swift-perception](https://github.com/pointfreeco/swift-perception)
-- **2026-02-10** — watching [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
             
 </td>
         
