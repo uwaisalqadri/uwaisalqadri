@@ -4,6 +4,7 @@
         
 ## GitHub Activity
            
+- **2026-04-01** — watching [instructkr/claw-code](https://github.com/instructkr/claw-code)
 - **2026-03-09** — watching [pointfreeco/swift-perception](https://github.com/pointfreeco/swift-perception)
             
 </td>
