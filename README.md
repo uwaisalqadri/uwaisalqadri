@@ -4,6 +4,7 @@
         
 ## GitHub Activity
            
+- **2026-04-06** — watching [santifer/career-ops](https://github.com/santifer/career-ops)
 - **2026-04-01** — watching [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
 - **2026-03-09** — watching [pointfreeco/swift-perception](https://github.com/pointfreeco/swift-perception)
             
