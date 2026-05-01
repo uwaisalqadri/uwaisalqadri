@@ -10,7 +10,6 @@
 - **2026-04-06** — watching [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 - **2026-04-06** — watching [pritunl/pritunl-client](https://github.com/pritunl/pritunl-client)
 - **2026-04-06** — watching [santifer/career-ops](https://github.com/santifer/career-ops)
-- **2026-04-01** — watching [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
             
 </td>
         
