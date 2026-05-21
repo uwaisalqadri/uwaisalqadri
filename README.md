@@ -17,6 +17,7 @@
         
 ## Medium Articles
             
+- **Type-Driven Design in Swift: Better Money Formatting** - [Read Article](https://medium.com/@uwaisalqadri/type-driven-design-in-swift-better-money-formatting-4667b823fe6c?source=rss-e28d558666f9------2)
 - **Apple Platforms Runs on macOS DNA** - [Read Article](https://medium.com/@uwaisalqadri/apple-platforms-runs-on-macos-dna-ee9836a42595?source=rss-e28d558666f9------2)
 - **Kotlin to Swift Part 2: Configuration** - [Read Article](https://medium.com/@uwaisalqadri/kotlin-to-swift-part-2-configuration-9fe83f473516?source=rss-e28d558666f9------2)
 - **Kanye West’s “Hey Mama” Feels Personal to Me** - [Read Article](https://medium.com/@uwaisalqadri/kanye-wests-hey-mama-feels-personal-to-me-9f49400e2814?source=rss-e28d558666f9------2)
@@ -26,7 +27,6 @@
 - **Write Swift Like Apple.** - [Read Article](https://medium.com/@uwaisalqadri/write-swift-like-apple-4c4331cf140c?source=rss-e28d558666f9------2)
 - **Maintaining Syntactic Sugar for Optional in Swift** - [Read Article](https://medium.com/@uwaisalqadri/maintaining-syntactic-sugar-for-optional-in-swift-dfb7f9019fba?source=rss-e28d558666f9------2)
 - **Integrating SwiftUI and UIKit Simplified** - [Read Article](https://medium.com/@uwaisalqadri/seamlessly-bridging-swiftui-and-uikit-a-practical-approach-f7cb8d2f6f11?source=rss-e28d558666f9------2)
-- **Automate Firebase Distribution without CI/CD Pipeline** - [Read Article](https://medium.com/@uwaisalqadri/automate-firebase-distribution-89cb261fd860?source=rss-e28d558666f9------2)
             
 </td>
 </tr>
