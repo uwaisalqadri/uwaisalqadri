@@ -9,7 +9,6 @@
 - **2026-05-22** — watching [kageroumado/phosphene](https://github.com/kageroumado/phosphene)
 - **2026-05-11** — watching [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
 - **2026-05-10** — watching [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift)
-- **2026-05-07** — watching [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)
             
 </td>
         
