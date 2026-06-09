@@ -8,7 +8,6 @@
 - **2026-05-25** — watching [BenEmdon/CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView)
 - **2026-05-22** — watching [kageroumado/phosphene](https://github.com/kageroumado/phosphene)
 - **2026-05-11** — watching [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
-- **2026-05-10** — watching [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift)
             
 </td>
         
