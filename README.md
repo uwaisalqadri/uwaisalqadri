@@ -5,7 +5,6 @@
 ## GitHub Activity
            
 - **2026-06-18** — watching [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-- **2026-05-26** — watching [CyrilCermak/modular_architecture_on_ios](https://github.com/CyrilCermak/modular_architecture_on_ios)
             
 </td>
         
