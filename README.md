@@ -4,6 +4,7 @@
         
 ## GitHub Activity
            
+- **2026-06-27** — watching [riddleling/iOS-OCR-Server](https://github.com/riddleling/iOS-OCR-Server)
 - **2026-06-26** — watching [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
 - **2026-06-18** — watching [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
             
