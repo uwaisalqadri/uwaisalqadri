@@ -4,6 +4,7 @@
         
 ## GitHub Activity
            
+- **2026-07-19** — watching [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
 - **2026-07-19** — watching [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
 - **2026-07-18** — watching [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)
 - **2026-06-30** — watching [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
