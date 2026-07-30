@@ -4,6 +4,9 @@
         
 ## GitHub Activity
            
+- **2026-07-30** — watching [mattpocock/skills](https://github.com/mattpocock/skills)
+- **2026-07-30** — watching [christianselig/Prospector](https://github.com/christianselig/Prospector)
+- **2026-07-30** — watching [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering)
 - **2026-07-28** — watching [pixel-agents-hq/pixel-agents](https://github.com/pixel-agents-hq/pixel-agents)
 - **2026-07-24** — watching [saket/touch-robot](https://github.com/saket/touch-robot)
 - **2026-07-19** — watching [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
