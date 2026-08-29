@@ -12,8 +12,6 @@
 - **2026-08-07** — watching [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - **2026-08-07** — watching [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
 - **2026-08-05** — watching [obra/superpowers](https://github.com/obra/superpowers)
-- **2026-07-30** — watching [mattpocock/skills](https://github.com/mattpocock/skills)
-- **2026-07-30** — watching [christianselig/Prospector](https://github.com/christianselig/Prospector)
             
 </td>
         
