@@ -4,6 +4,7 @@
         
 ## GitHub Activity
            
+- **2026-08-30** — watching [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
 - **2026-08-19** — watching [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 - **2026-08-18** — created branch `main` on [uwaisalqadri/TrainLog](https://github.com/uwaisalqadri/TrainLog)
 - **2026-08-14** — watching [elegracer/NetSpeedMonitor](https://github.com/elegracer/NetSpeedMonitor)
@@ -11,7 +12,6 @@
 - **2026-08-07** — watching [agoodkind/macos-smc-fan](https://github.com/agoodkind/macos-smc-fan)
 - **2026-08-07** — watching [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - **2026-08-07** — watching [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
-- **2026-08-05** — watching [obra/superpowers](https://github.com/obra/superpowers)
             
 </td>
         
