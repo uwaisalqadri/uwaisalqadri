@@ -10,8 +10,6 @@
 - **2026-08-18** — created branch `main` on [uwaisalqadri/TrainLog](https://github.com/uwaisalqadri/TrainLog)
 - **2026-08-14** — watching [elegracer/NetSpeedMonitor](https://github.com/elegracer/NetSpeedMonitor)
 - **2026-08-13** — created branch `feat/commit-command` on [uwaisalqadri/gitthat](https://github.com/uwaisalqadri/gitthat)
-- **2026-08-07** — watching [agoodkind/macos-smc-fan](https://github.com/agoodkind/macos-smc-fan)
-- **2026-08-07** — watching [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
             
 </td>
         
