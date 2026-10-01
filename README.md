@@ -11,7 +11,6 @@
 - **2026-09-08** — watching [skydoves/nowinandroid-kmp](https://github.com/skydoves/nowinandroid-kmp)
 - **2026-09-07** — watching [exyte/LiquidSwipe](https://github.com/exyte/LiquidSwipe)
 - **2026-09-07** — watching [exyte/SVGView](https://github.com/exyte/SVGView)
-- **2026-08-29** — deleted tag `pre-author-rewrite` on [uwaisalqadri/gitthat](https://github.com/uwaisalqadri/gitthat)
             
 </td>
         
