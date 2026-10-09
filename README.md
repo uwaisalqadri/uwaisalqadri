@@ -9,7 +9,6 @@
 - **2026-09-27** — watching [makepad/makepad](https://github.com/makepad/makepad)
 - **2026-09-18** — watching [http4k/http4k](https://github.com/http4k/http4k)
 - **2026-09-14** — watching [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)
-- **2026-09-08** — watching [skydoves/nowinandroid-kmp](https://github.com/skydoves/nowinandroid-kmp)
             
 </td>
         
