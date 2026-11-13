@@ -9,7 +9,6 @@
 - **2026-10-29** — watching [decolua/9router](https://github.com/decolua/9router)
 - **2026-10-15** — watching [morluto/rea](https://github.com/morluto/rea)
 - **2026-10-15** — watching [0xrsydn/idx-cli](https://github.com/0xrsydn/idx-cli)
-- **2026-10-14** — watching [krishhgg/Insomnia](https://github.com/krishhgg/Insomnia)
             
 </td>
         
